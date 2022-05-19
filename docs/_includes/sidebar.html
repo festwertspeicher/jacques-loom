@@ -10,13 +10,13 @@
         {{ page.url | replace: "/", "" }}
         {% endcapture %}
         <dt class="flex">
-            <a href="{% if section.url %}{{ site.baseurl }}/{{ section.url }}{% else %}{{ section.external_url }}{% endif %}" class="font-bold hover:text-speed-500 transition-colors mb-2 pointer-events-none">
+            <a href="{% if section.url %}{{ site.baseurl }}/{{ section.url }}{% else %}{{ section.external_url }}{% endif %}" class="font-bold leading-tight hover:text-speed-500 transition-colors mb-2 pointer-events-none">
                 {{ section.title }}
             </a>
         </dt>
 
         {% if section.links %}
-        <dd {% if forloop.last %}class="border-l-2 border-speed-500" {% else %}class="mb-8 border-l-2 border-speed-500" {% endif %} id="{{ section.title | slugify }}">
+        <dd {% if forloop.last %}class="border-l-2 border-speed-500" {% else %}class="mb-8 border-l-2 border-speed-500" {% endif %}>
             {% for entry in section.links %}
             {% assign thispage = page.url | split: '/'%}
             {% assign thispage = thispage | compact | join: '' %}
@@ -25,13 +25,17 @@
             <!-- not a perfect solution for this comparison. page foo/bar would equal to page foobar -->
 
             {% if thispage == thisentry %}
+            <p class="flex text-air-500 py-1 border-l-[3px] pl-4 border-speed-500 leading-tight">
+                {{ entry.title }}
+            </p>
+
             <nav class="flex flex-col" id=toc>
                 <ul class="outline-list" id="TOC">
                     <!-- TOC will be appened here-->
                 </ul>
             </nav>
             {% else %}
-            <a href="{% if entry.url %}{{ site.baseurl }}/{{ entry.url }}{% else %}{{ entry.external_url }}{% endif %}" class="flex hover:text-air-500 transition-colors py-1 border-l-[3px] pl-4 border-transparent hover:border-speed-500">
+            <a href="{% if entry.url %}{{ site.baseurl }}/{{ entry.url }}{% else %}{{ entry.external_url }}{% endif %}" class="flex hover:text-air-500 leading-tight transition-colors py-1 border-l-[3px] pl-4 border-transparent hover:border-speed-500">
                 {{ entry.title }}
             </a>
             {% endif %}

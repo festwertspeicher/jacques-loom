@@ -1,8 +1,6 @@
 .outline-list {
-    > li > a:first-of-type {
-        @apply border-speed-500;
-    }
-
+    @apply ml-4 border-speed-500 border-l-2;
+    
     ul {
         @apply ml-4 border-speed-500 border-l-2;
     }
