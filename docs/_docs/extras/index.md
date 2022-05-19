@@ -1,6 +1,6 @@
 ---
 title: Extras
-description: Extras, including quizzes.
+description: Extras
 tags:
  - survey
 ---
@@ -8,10 +8,8 @@ tags:
 # Extras
 
 Extras include other integrations that aren't relevant to style or customization,
-but can further enhance your documentation pages. Currently, we have support
-for adding interactive quizzes.
+but can further enhance your documentation pages.
 
- - [Quizzes](example-quiz)
  - [Tags]({{ site.baseurl }}/tags/)
 
 Would you like to see another question type, or another kind of extra? Please [open an issue]({{ site.repo }}/issues/new).

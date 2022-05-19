@@ -1,0 +1,19 @@
+.btn {
+ @apply inline-block px-6 py-2.5 mx-2 my-1 font-bold text-xs leading-tight rounded-md shadow-sm hover:shadow-md focus:shadow-md focus:outline-none active:shadow-md transition duration-150 ease-in-out;
+}
+
+.btn-magnet {
+ @apply bg-magnet-600 text-white hover:bg-magnet-500 focus:bg-magnet-500 ring-magnet-500 active:bg-magnet-600;
+}
+
+.btn-electronic {
+ @apply bg-electronic-600 text-white hover:bg-electronic-500 focus:bg-electronic-500 ring-electronic-500 active:bg-electronic-600;
+}
+
+.btn-speed {
+ @apply bg-speed-600 text-white hover:bg-speed-500 focus:bg-speed-500 ring-speed-500 active:bg-speed-600;
+}
+
+.btn-air {
+ @apply bg-air-600 text-white hover:bg-air-500 focus:bg-air-500 ring-air-500 active:bg-air-600;
+}

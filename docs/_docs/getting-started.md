@@ -134,9 +134,6 @@ Here is an example (currently the active example):
           url: "docs/getting-started#customization"
     - title: "Extras"
       url: "docs/extras"
-      children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
     - title: "About"
       url: "about"
     - title: "News"
@@ -164,23 +161,17 @@ according to the year.
 The following buttons are available - you can match the class on the button to the examples below.
 All buttons include the basic `.btn` class.
 
-<button class="btn btn-red">.btn-red</button>
-<button class="btn btn-orange">.btn-orange</button>
-<button class="btn btn-yellow">.btn-yellow</button>
-<button class="btn btn-green">.btn-green</button>
-<button class="btn btn-blue">.btn-blue</button>
-<button class="btn btn-purple">.btn-purple</button>
-<button class="btn btn-pink">.btn-pink</button>
+<button class="btn btn-magnet">magnet</button>
+<button class="btn btn-speed">speed</button>
+<button class="btn btn-air">air</button>
+<button class="btn btn-electronic">electronic</button>
 
 
 ```html
-<button class="btn btn-red">.btn .btn-red</button>
-<button class="btn btn-orange">.btn .btn-orange</button>
-<button class="btn btn-yellow">.btn .btn-yellow</button>
-<button class="btn btn-green">.btn .btn-green</button>
-<button class="btn btn-blue">.btn .btn-blue</button>
-<button class="btn btn-purple">.btn .btn-purple</button>
-<button class="btn btn-pink">.btn .btn-pink</button>
+<button class="btn btn-magnet">magnet</button>
+<button class="btn btn-speed">speed</button>
+<button class="btn btn-air">air</button>
+<button class="btn btn-electronic">electronic</button>
 ```
 
 ### Badges
@@ -234,10 +225,10 @@ That looks like this:
 Or change the background color:
 
 ```
-{% raw %}{% include callout.html text="Hey you! The sky is blue!" color="skyblue" %}{% endraw %}
+{% raw %}{% include callout.html text="Hey you! The sky is blue!" color="speed" %}{% endraw %}
 ```
 
-{% include callout.html text="Hey you, look right here!" color="skyblue" %}
+{% include callout.html text="Hey you, look right here!" color="speed" %}
 
 ### Quotes
 

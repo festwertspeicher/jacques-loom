@@ -36,7 +36,7 @@ add_permalinks: true
 # Optional
 # twitter: vsoch
 # linkedin: vsochat
-support: https://github.com/festwertspeicher/jacques-loom/issues
+support: "mailto:hello-world@read-only-memory.com"
 repo: https://github.com/festwertspeicher/jacques-loom
 github_user: festwertspeicher
 github_repo: jacques-loom
@@ -48,7 +48,7 @@ github_repo: jacques-loom
 # branch to edit on GitHub
 github_branch: main
 
-# If not set, badge color (background) defaults to violet
+# If not set, badge color (background) defaults to air
 # badge_color: "#2bcf98"
 badge_rounded: true
 
@@ -62,7 +62,7 @@ tag_color: primary # danger, success, warning, primary, info, secondary
 
 permalink: /:year/:title/
 markdown: kramdown
-exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor, node_modules]
+exclude: [_site, _tailwind, Gemfile, Gemfile.lock, package-lock.json, package.json, postcss.config.js, tailwind.config.js, CHANGELOG.md, LICENSE, README.md, vendor, node_modules]
 
 #sass compilation
 sass:

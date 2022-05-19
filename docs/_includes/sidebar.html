@@ -1,18 +1,45 @@
-<nav aria-label="Main menu" data-menu class="z-40 bg-white text-base hidden md:block fixed top-0 pt-36 pb-16 pl-0.5 w-[calc(100%-1rem)] md:w-60 h-full max-h-screen md:text-[13px] text-navy docs-left-sidebar overflow-y-auto leading-5">
-   <dl class=leading-5>
-    {% for section in site.data.toc %}
+<nav aria-label="Main menu" data-menu class="bg-white hidden md:block fixed md:static pt-28 md:pt-0 top-0 h-full w-full -ml-4 px-4 md:pr-0 max-h-screen md:max-h-full docs-left-sidebar overflow-y-auto">
+    {% include search.html %}
+    <dl>
+        {% for section in site.data.toc %}
 
-        {% capture sectionUrl %} 
-          {{ section.url | replace: "/", "" }} 
+        {% capture sectionUrl %}
+        {{ section.url | replace: "/", "" }}
         {% endcapture %}
-        {% capture pageUrl %} 
-          {{ page.url | replace: "/", "" }} 
+        {% capture pageUrl %}
+        {{ page.url | replace: "/", "" }}
         {% endcapture %}
-      <dt {% if forloop.first %}class="flex sm:justify-center"{% endif %}> <a href="{% if section.url %}{{ site.baseurl }}/{{ section.url }}{% else %}{{ section.external_url }}{% endif %}" class="flex items-center text-sm font-semibold hover:text-violet-600 transition-colors pb-1 -ml-0.5 mb-1 active"> {{ section.title }} </a></dt>
+        <dt class="flex">
+            <a href="{% if section.url %}{{ site.baseurl }}/{{ section.url }}{% else %}{{ section.external_url }}{% endif %}" class="font-bold hover:text-speed-500 transition-colors mb-2 pointer-events-none">
+                {{ section.title }}
+            </a>
+        </dt>
 
         {% if section.links %}
-      <dd {% if forloop.last %}class="border-l"{% else %}class="mb-8 border-l"{% endif %} id="{{ section.title | slugify }}">{% for entry in section.links %}
-          <a href="{% if entry.url %}{{ site.baseurl }}/{{ entry.url }}{% else %}{{ entry.external_url }}{% endif %}" class="flex hover:text-violet-600 transition-colors py-1 border-l-[3px] pl-4 -ml-0.5 border-transparent hover:border-violet-500">{{ entry.title }}</a>{% endfor %}
-        </dd>{% endif %}{% endfor %}
-   </dl>
+        <dd {% if forloop.last %}class="border-l-2 border-speed-500" {% else %}class="mb-8 border-l-2 border-speed-500" {% endif %} id="{{ section.title | slugify }}">
+            {% for entry in section.links %}
+            {% assign thispage = page.url | split: '/'%}
+            {% assign thispage = thispage | compact | join: '' %}
+            {% assign thisentry = entry.url | split: '/'%}
+            {% assign thisentry = thisentry | compact | join: '' %}
+            <!-- not a perfect solution for this comparison. page foo/bar would equal to page foobar -->
+
+            {% if thispage == thisentry %}
+            <nav class="flex flex-col" id=toc>
+                <ul class="outline-list" id="TOC">
+                    <!-- TOC will be appened here-->
+                </ul>
+            </nav>
+            {% else %}
+            <a href="{% if entry.url %}{{ site.baseurl }}/{{ entry.url }}{% else %}{{ entry.external_url }}{% endif %}" class="flex hover:text-air-500 transition-colors py-1 border-l-[3px] pl-4 border-transparent hover:border-speed-500">
+                {{ entry.title }}
+            </a>
+            {% endif %}
+
+            {% endfor %}
+        </dd>
+        {% endif %}
+        {% endfor %}
+    </dl>
+
 </nav>
