@@ -5,9 +5,6 @@ module.exports = {
         "./_posts/*.{html,js,md,svg}",
         "./*.{html,js,md,svg}"
     ],
-    safelist: [
-    'not-prose',
-    ],
     theme: {
         colors: {
             transparent: 'transparent',

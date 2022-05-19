@@ -29,10 +29,6 @@ url: "https://festwertspeicher.github.io" # the base hostname & protocol for you
 # Keywords (space separated)
 keywords: "jacques loom open hardware jacquard loom"
 
-# Add colorful permalinks to headers
-# change colors in _includes/permalinks.html
-add_permalinks: true
-
 # Optional
 # twitter: vsoch
 # linkedin: vsochat

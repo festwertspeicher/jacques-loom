@@ -1,3 +1,4 @@
+/*
 document.addEventListener(
     "click",
     function (e) {
@@ -47,13 +48,29 @@ document.addEventListener(
     !1
 );
 
+const el = document.getElementById("TOC");
+el.addEventListener("click", function() {
+    ((document.documentElement.dataset.menuState = "on" === document.documentElement.dataset.menuState ? "off" : "on"),
+    "on" === document.documentElement.dataset.menuState
+        ? (sessionStorage.setItem("scroll-position", document.documentElement.scrollTop),
+            (document.documentElement.dataset.scrollDisabled = "on"),
+            s("[data-menu]", !0),
+            (a = document
+                .querySelector("[data-menu-container]")
+                .querySelectorAll(
+                    'a[href]:not([tabindex="-1"]), area[href]:not([tabindex="-1"]), input:not([disabled]):not([tabindex="-1"]), select:not([disabled]):not([tabindex="-1"]), textarea:not([disabled]):not([tabindex="-1"]), button:not([disabled]):not([tabindex="-1"]), iframe:not([tabindex="-1"]), [tabindex]:not([tabindex="-1"]), [contentEditable=true]:not([tabindex="-1"])'
+                )),
+            (c = a[0]),
+            (u = a[a.length - 1]))
+        : ((document.documentElement.dataset.scrollDisabled = "off"), (document.documentElement.scrollTop = sessionStorage.getItem("scroll-position")), s("[data-menu]", !1)));
+}, false);
+
 function s(e, t) {
     var n = document.querySelector(e);
     n.querySelectorAll("button, [href], input, select, textarea").forEach(function (e) {
         return e.setAttribute("tabindex", t ? "" : "-1");
     }),
-        n.classList.toggle("hidden"),
-        n.classList.toggle("grid");
+        n.classList.toggle("hidden");
 }
 
 function f(e) {
@@ -132,3 +149,4 @@ document.addEventListener("DOMContentLoaded", function () {
     }.init());
 }),
 document.addEventListener("input", f);
+*/

@@ -1,4 +1,4 @@
-<header class="fixed left-0 top-0 md:relative w-full h-20 bg-white border-b border-black md:border-none z-50" role=banner>
+<header class="fixed left-0 top-0 lg:relative w-full h-20 bg-white border-b md:border-none z-50" role=banner>
     <div class="w-full max-w-screen-2xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex gap-5 items-center justify-between">
 
         <nav aria-label="Logo menu">
@@ -9,14 +9,14 @@
 
         {% include social-menu.html %}
 
-        <button data-menu-toggle aria-expanded="false" class="menu-toggle block ml-auto md:hidden relative z-50">
-            <span class="sr-only">Open main menu</span>
-            <svg aria-hidden="true" role="img" class="pointer-events-none w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
-                <g buffered-rendering="static">
-                    <path d="M21.815 4.519a1.5 1.5 0 00-1.5-1.5H3.685a1.5 1.5 0 000 3h16.63a1.5 1.5 0 001.5-1.5zM21.815 19.481a1.5 1.5 0 00-1.5-1.5H3.685a1.5 1.5 0 000 3h16.63a1.5 1.5 0 001.5-1.5zM21.815 12a1.5 1.5 0 00-1.5-1.5H8.564a1.5 1.5 0 000 3h11.751a1.5 1.5 0 001.5-1.5z" />
-                </g>
-            </svg>
-        </button>
+        <div class="lg:hidden">
+            <button class="navbar-burger flex items-center text-blue-600 p-3">
+                <svg class="block h-4 w-4 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                    <title class="sr-only">Open Mobile Menu</title>
+                    <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path>
+                </svg>
+            </button>
+        </div>
 
     </div>
 </header>
