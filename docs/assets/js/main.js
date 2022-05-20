@@ -25,7 +25,7 @@ $(document).ready(function() {
             if (text != "") {
                 if ($(this)[0].hasAttribute("id")) {
                     var href = $(this).attr("id");
-                    $(this).append('<a class="headerlink no-prose no-underline text-speed-500" href="#' + href + '" title="Permanent link"> ¶</a>')
+                    $(this).append('<a class="headerlink no-prose" href="#' + href + '" title="Permanent link"> ¶</a>')
                 }
             }
         });

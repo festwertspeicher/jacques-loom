@@ -5,3 +5,7 @@
         @apply ml-4 border-speed-500 border-l-2;
     }
 }
+
+.headerlink {
+    @apply no-underline text-speed-500
+}
