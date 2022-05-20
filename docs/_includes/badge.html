@@ -1,4 +1,4 @@
-<span class="inline-flex items-center justify-center px-2 py-1 mr-2 text-xs font-bold leading-none text-air-100 bg-air-500 rounded-full" {% if include.style %}style="{{ include.style }}{% endif %}">
+<span class="inline-flex items-center justify-center px-2 py-1 mr-2 text-xs font-bold leading-none text-air-100 bg-air-500 rounded-full {% if include.class %}{{ include.class }}{% endif %}">
     <a class="cursor-pointer text-white no-underline">
         {{ include.text }}
     </a>

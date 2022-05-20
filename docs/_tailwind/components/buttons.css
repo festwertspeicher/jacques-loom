@@ -1,5 +1,5 @@
 .btn {
- @apply inline-block px-6 py-2.5 mx-2 my-1 font-bold text-xs leading-tight rounded-md shadow-sm hover:shadow-md focus:shadow-md focus:outline-none active:shadow-md transition duration-150 ease-in-out;
+ @apply inline-block px-6 py-2.5 mr-2 my-1 font-bold text-xs leading-tight rounded-md shadow-sm hover:shadow-md focus:shadow-md focus:outline-none active:shadow-md transition duration-150 ease-in-out;
 }
 
 .btn-magnet {

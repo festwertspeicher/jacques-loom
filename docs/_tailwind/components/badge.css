@@ -1,0 +1,11 @@
+.badge-air {
+    @apply bg-air-500;
+}
+
+.badge-speed {
+    @apply bg-speed-500;
+}
+
+.badge-electronic {
+    @apply bg-electronic-500;
+}

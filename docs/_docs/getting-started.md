@@ -190,22 +190,22 @@ title:  "Two Thousand Nineteen"
 date:   2019-06-28 18:52:21
 categories: jekyll update
 badges:
- - color: orange
-   name: warning-badge
- - color: red
-   name: danger-badge
+ - class: badge-speed
+   name: deprecated
+ - class: badge-air
+   name: updated version
 ---
 ```
 
 And to easily include a badge, just use the include:
 
 ```
-{% raw %}{% include badge.html text="good-job" style="background-color:green" %}{% endraw %}
+{% raw %}{% include badge.html text="good-job" class="badge-speed" %}{% endraw %}
 ```
 
 To generate this:
 
-{% include badge.html text="good-job" style="background-color:green" %}
+{% include badge.html text="good-job" class="badge-speed" %}
 
 
 ### Callout
@@ -372,10 +372,9 @@ page tags link to a search on it:
 
 ```yaml
 tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
-tag_color: danger # danger, success, warning, primary, secondary, info
 ```
 
-Note that you can also choose a color! The tags appear at the top of the page,
+The tags appear at the top of the page,
 as they do on this page. The tags should be defined like this in the front end
 matter:
 
