@@ -42,7 +42,7 @@ github_repo: jacques-loom
 # logo: assets/img/tw-jekyll.png
 
 # branch to edit on GitHub
-github_branch: main
+github_branch: main/docs
 
 # Build settings
 markdown: kramdown
