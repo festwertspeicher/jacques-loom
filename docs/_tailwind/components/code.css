@@ -1,9 +1,11 @@
+pre, code, kbd { tab-size:4; }
+
 code {
     @apply bg-magnet-200 p-1 rounded-sm;
 }
 
 pre {
-    @apply max-w-[100%] whitespace-pre-wrap break-words;
+    @apply max-w-[100%] whitespace-pre-wrap break-words overflow-x-scroll;
 }
 
 .prose :where(code):not(:where([class~="not-prose"] *))::before {
