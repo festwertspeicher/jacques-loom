@@ -1,0 +1,7 @@
+.task-list {
+    @apply pl-0 list-none;
+}
+
+.task-list-item-checkbox {
+    @apply mr-2 h-4 w-4 border-magnet-500 rounded-sm bg-white checked:bg-air-500 checked:border-air-500;
+}

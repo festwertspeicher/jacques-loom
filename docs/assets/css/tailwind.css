@@ -1081,6 +1081,9 @@ select {
 .inline-flex {
   display: inline-flex;
 }
+.table {
+  display: table;
+}
 .grid {
   display: grid;
 }
@@ -1512,6 +1515,26 @@ pre {
 }
 .prose :where(code):not(:where([class~="not-prose"] *))::after {
     content: "";
+}
+.task-list {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.task-list-item-checkbox {
+  margin-right: 0.5rem;
+  height: 1rem;
+  width: 1rem;
+  border-radius: 0.125rem;
+  --tw-border-opacity: 1;
+  border-color: rgb(143 144 156 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+.task-list-item-checkbox:checked {
+  --tw-border-opacity: 1;
+  border-color: rgb(0 153 255 / var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 153 255 / var(--tw-bg-opacity));
 }
 .outline-list {
   margin-left: 1rem;
