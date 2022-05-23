@@ -8,6 +8,14 @@ author:
   github: vsoch
 ---
 
+## What
+
+This is a [starter template](https://vsoch.github.com/tw-jekyll/) for a Tailwind jekyll theme, based
+on [these docs](https://github.com/superfly/docs) that are based on [Tailwind css](https://tailwindcss.com/docs/installation),
+however everything has been modified to work on GitHub pages (using Jekyll). If you don't need
+native deployment on GitHub pages, then please consider checking out Tailwind. 
+The original [Apache License](https://github.com/vsoch/tw-jekyll/tree/main/LICENSE) is included.
+
 ## Features
 
 ### User Interaction
