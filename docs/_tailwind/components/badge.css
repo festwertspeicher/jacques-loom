@@ -9,3 +9,7 @@
 .badge-electronic {
     @apply bg-electronic-500;
 }
+
+.badge-magnet {
+    @apply bg-magnet-500;   
+}

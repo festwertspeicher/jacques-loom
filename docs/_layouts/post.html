@@ -8,8 +8,8 @@ layout: page
 
 {% if page.badges %}
 {% for badge in page.badges %}
-<span style="font-size:12px;{% if badge.color %}background-color:{{ badge.color }}{% endif %}" class="inline-flex items-center justify-center px-2 py-1 mr-2 text-xs font-bold leading-none text-air-100 bg-air-500 rounded{% if site.badge_rounded %}-full{% endif %}">
-    <a class="cursor-pointer text-white" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">
+<span class="{% if badge.class %}{{ badge.class }}{% endif %} inline-flex items-center justify-center px-2 py-1 mr-2 text-xs font-bold leading-none text-air-100 bg-air-500 rounded-full">
+    <a class="cursor-pointer text-white no-underline" href="{% if site.tag_search_endpoint %}{{ site.tag_search_endpoint }}{{ tag }}{% else %}{{ site.url }}{{ site.baseurl }}/tags#{{ tag }} {% endif %}">
         {{ badge.name }}
     </a>
 </span>

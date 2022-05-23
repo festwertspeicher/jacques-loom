@@ -1203,16 +1203,16 @@ select {
   --tw-border-opacity: 1;
   border-color: rgb(0 153 255 / var(--tw-border-opacity));
 }
+.border-magnet-900 {
+  --tw-border-opacity: 1;
+  border-color: rgb(29 39 54 / var(--tw-border-opacity));
+}
 .border-speed-500 {
   --tw-border-opacity: 1;
   border-color: rgb(255 78 0 / var(--tw-border-opacity));
 }
 .border-transparent {
   border-color: transparent;
-}
-.border-magnet-900 {
-  --tw-border-opacity: 1;
-  border-color: rgb(29 39 54 / var(--tw-border-opacity));
 }
 .border-x-speed-500 {
   --tw-border-opacity: 1;
@@ -1322,6 +1322,9 @@ select {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.outline {
+  outline-style: solid;
+}
 .\!ring-inset {
   --tw-ring-inset: inset !important;
 }
@@ -1353,6 +1356,10 @@ select {
 .badge-electronic {
   --tw-bg-opacity: 1;
   background-color: rgb(51 255 153 / var(--tw-bg-opacity));
+}
+.badge-magnet {
+  --tw-bg-opacity: 1;
+  background-color: rgb(143 144 156 / var(--tw-bg-opacity));
 }
 .btn {
   margin-top: 0.25rem;
