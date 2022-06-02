@@ -2,6 +2,7 @@
 include_in_search: false
 layout: null
 ---
+
 $(document).ready(function() {
     //search query
     $(document).on('keypress', '.td-search-input', function(e) {
@@ -68,7 +69,7 @@ $(document).ready(function() {
 
             // Add section code to subnavigation
             var children = $('<ul></ul>')
-            var contenders = $("#" + div_id).nextUntil("h1");
+            var contenders = $("#" + div_id).nextUntil("h2");
             $.each(contenders, function (idx, contender) {
                 if ($(contender).is('h2') || $(contender).is('h3')) {
                     var contender_id = $(contender).attr('id');
