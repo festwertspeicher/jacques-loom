@@ -11,8 +11,8 @@
         - title: Customization
           url: "docs/getting-started#customization"
     - title: "About"
-      url: "about"
-    - title: "News"
+      url: ""
+    - title: "Blog & Buildlog"
       url: "news"
 - title: "Extras"
   url: "docs/extras"

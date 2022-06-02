@@ -1,5 +1,5 @@
 ---
-title: News
+title: Blog & Buildlog
 permalink: /news/
 ---
 
@@ -17,7 +17,7 @@ permalink: /news/
       <a href="{{ site.baseurl }}{{ post.url }}">read more</a>
    {% endif %}
    </div>
-   <hr class="border-2 border-air-500>
+   <hr class="border-t-2 border-air-500">
 {% endfor %}
 
 Want to see more? See the <a href="{{ site.baseurl }}/archive/">News Archive</a>.
