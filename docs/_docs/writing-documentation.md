@@ -2,26 +2,37 @@
 tags: 
  - jekyll
  - github
-description: Getting started with Tw-Jekyll
+description: Writing Documentation
 author:
-  name: Vanessa Sochat
-  github: vsoch
+  name: Vanessa Sochat, Norman Heck
 ---
 
 ## What
 
-This is a [starter template](https://vsoch.github.com/tw-jekyll/) for a Tailwind jekyll theme, based
-on [these docs](https://github.com/superfly/docs) that are based on [Tailwind css](https://tailwindcss.com/docs/installation),
-however everything has been modified to work on GitHub pages (using Jekyll). If you don't need
-native deployment on GitHub pages, then please consider checking out Tailwind. 
-The original [Apache License](https://github.com/vsoch/tw-jekyll/tree/main/LICENSE) is included.
+On this Page you can find instructions on how to write or edit this website. This is a [Jekyll page](https://jekyllrb.com/) living in the projects [github repository]({{ site.repo }}) in the `/docs` subfolder. For more information on Github Pages see [this documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
+
+The theme of this documentation is build on [this starter template](https://vsoch.github.com/tw-jekyll/). Everything has been modified to fit my needs. The original [Apache License](https://github.com/vsoch/tw-jekyll/tree/main/LICENSE) is included. For CSS Styling the latest Version of Tailwind is used. The Build Process of Tailwind is not running on the Github Server and needs to be deployd along with your Commit.
+
+## Up and Running
+
+ - [install Jekyll](https://jekyllrb.com/docs/installation/)
+ - clone the repository `$ git clone https://github.com/festwertspeicher/jacques-loom`
+ - go to the docs folder `$ cd /docs`
+ - install the packages `$ npm install`
+ - serving the Jekyll page with livereload: - `npm run jekyll:dev`
+ - watching for style changes in Tailwind files and creating the static and purged CSS file: - `npm run css:watch`
+
+## Support
+
+If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_user }}/{{ site.github_repo }}).
+
 
 ## Features
 
 ### User Interaction
 
 
-On the right side of any page, you'll notice links to edit the page, or
+On thebottom of any page, you'll notice links to edit the page, or
 open an issue. This ensures that any time you have a question or want to 
 suggest or request a change, you can do so immediately and link directly
 to the section of interest. The sections on the page also have permalinks (¶) so
@@ -119,6 +130,38 @@ The `pages` folder uses the same page layout, but is not part of the docs collec
 The two are provided to create a distinction between website pages (e.g., about,
 feed.xml) and documentation pages.  
 
+# A Nested Page
+
+This is an example of a page that doesn't have a permalink defined, and
+is not included in the table of contents (`_data/toc.yml`). This means
+that it will render based on it's path. Since it's in `docs/example-page.md`,
+the url will be `docs/example-page/`.
+
+## Link to a subfolder
+
+Now let's say we want to link to a subfolder, specifically with this
+setup:
+
+```
+docs/
+  example-page.md  (-- we are here
+  subfolder/
+     example-page.md  (-- we want to link here
+```
+
+You can provide the relative path to the file, like `subfolder/example-page.md`
+and Jekyll will handle parsing it. For example:
+
+ - [here is that link](subfolder/example-page)
+ 
+And {% include doc.html name="here" path="subfolder/example-page" %} is the same link, 
+but generated with the include statement:
+
+```
+{% raw %}{% include doc.html name="here" path="subfolder/example-page" %}{% endraw %}
+```
+
+
 ### Navigation
 
 Whether you place your page under "pages" or "docs," for those pages that you want added to the navigation, 
@@ -133,13 +176,6 @@ Here is an example (currently the active example):
   links:
     - title: "Getting Started"
       url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
     - title: "Extras"
       url: "docs/extras"
     - title: "About"
@@ -367,7 +403,7 @@ Please [open an issue](https://www.github.com/{{ site.github_user }}/{{ site.git
 
 #### Adding pages
 
-To add pages, write them into the [pages](https://github.com/vsoch/tw-jekyll/tree/main/pages) folder. 
+To add pages, write them into the [pages](https://github.com/vsoch/tw-jekyll/tree/main/pages) folder.
 You define urls based on the `permalink` attribute in your pages,
 and then add them to the navigation by adding to the content of [_data/toc.yml](https://github.com/vsoch/tw-jekyll/blob/main/_data/toc.yml).
 

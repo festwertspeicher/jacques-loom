@@ -1,19 +1,12 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
     - title: "About"
       url: ""
     - title: "Blog & Buildlog"
       url: "news"
+    - title: "Manual: Writing Documentation"
+      url: "docs/writing-documentation"
 - title: "Extras"
   url: "docs/extras"
   links:
