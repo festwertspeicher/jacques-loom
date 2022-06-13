@@ -64,6 +64,8 @@ module.exports = {
             typography: ({ theme }) => ({
                 magnet: {
                     css: {
+                        'code::before': false,
+                        'code::after': false,
                         '--tw-prose-body': theme('colors.magnet[800]'),
                         '--tw-prose-headings': theme('colors.magnet[900]'),
                         '--tw-prose-lead': theme('colors.magnet[700]'),
