@@ -21,7 +21,7 @@ Textiles or fabrics are almost exclusively imported and involve a non-transparen
 
 Today, looms are large-scale industrial production tools that are not accessible to small-scale manufacturers. There are hardly any affordable, compact and modern looms for non-industrial applications. This is especially true for jacquard looms. 
 
-A jacquard loom can create highly complex fabrics by individually raising or lowering each vertical warp thread during the weaving process. This allows entire pictures to be woven. Other loom types are not versatile and produce less complex fabrics with repetitive repeat (e.&nbsp;g., check patterns) and usually no variation in weave type (e.&nbsp;g., denim binding only).
+A jacquard loom can create highly complex fabrics by individually raising or lowering each vertical warp thread during the weaving process. This allows entire pictures to be woven. Other loom types are not versatile with very limited design possibilities resulting in repeatitive pattern (e.&nbsp;g. check pattern) and usually no binding variation (e.&nbsp;g. denim binding only.
 
 The goal of this project is to make jacquard weaving more accessible. An alternative to large-scale industrial production methods should make people able to act and enable independent decentralized production of small series, prototypes and experiments.
 
@@ -85,15 +85,15 @@ There have been several attempts to build small Jacquard looms. All projects are
 
 > Have you already worked on the idea? If yes, briefly describe the current status and explain the innovation that will be added during the fund/funding period.
 
-Currently I am in the project planning phase. With the submission of this application I want to have completed this phase as far as possible and start with the main part of the work. So far I have concretized my idea, created time plans, did some networking and set up a workspace. For the project, I have created a Github repository and set up a website for documentation purposes. For a better external perception I created a logo.
+The submission of this application also marks the end of the project planning phase: the idea has been concretized, timelines created, networking done and a workspace has been set up. All organizational steps are completed, such as the creation of a website for documentation purposes and the initiation of the GitHub repository to share first progress.
 
-In preparation for the next phase of the project, I built a test rig to experiment with different mechanisms for serial selection of warp threads. I have already found a promising mechanism, which I am currently improving.
+To start the next phase of the project, a test rig has been developed to test different mechanisms for the serial selection of warp threads. First tests ran very successfully - in particular, a promising mechanism was found, which will now be further improved. In the next phases of the project a loom will be developed around this mechanism and improved iteratively.
 
 > Briefly outline the key milestones, with an estimate of the workload in hours, that you plan to complete in the funding period of a maximum of 6 months.
 
 A more detailed list can be found [here](). Documentation will be provided on an ongoing basis.
 
-1. Planning (124 hours)
+1. Planning (finished)
 * Research
 * SMART goals
 * Time planning
@@ -102,18 +102,18 @@ A more detailed list can be found [here](). Documentation will be provided on an
 * Fundraising
 * Recruit university professors for mentoring
 
-2. Develop a warp selection mechanism (192 hours).
+2. Develop a warp selection mechanism (188 hours).
 * Building a test rig
 * Test different mechanisms
 * Check for patent infringement
 
-3. Loom MVP (264 hours).
+3. Loom MVP (404 hours).
 * First prototype
 * Minimal software design
 * Professional photos/videos
 * Interim report as master thesis
 
-4th Iteration of the loom (288 hours).
+4. Iteration of the loom (320 hours).
 * New major version of the loom
 * More robust software
 * Complete package with CAD files, schematics, BOM, code, ...
@@ -200,15 +200,15 @@ Es gab bereits mehrere Versuche, kleine Jacquardwebstühle zu bauen. Alle Projek
 
 > Habt ihr schon an der Idee gearbeitet? Wenn ja, beschreibt kurz den aktuellen Stand und erklärt die Neuerung, die im Rahmen des Funds/Förderzeitraums hinzukommen sollen. (100 Worte)
 
-Aktuell bin ich in der Projektplanungsphase. Mit der Abgabe dieser Bewerbung will ich diese Phase weitestgehend abgeschlossen haben und mit dem Hauptteil der Arbeit beginnen. Bis jetzt habe ich meine Idee konkretisiert, Zeitpläne erstellt, Vernetzungsarbeit betrieben und einen Arbeitsplatz eingerichtet. Für das Projekt habe ich ein Github Repository angelegt und eine Webseite zur Dokumentation aufgesetzt. Für eine bessere Außenwahrnehmung habe ich ein Logo erstellt.
+Mit der Abgabe dieser Bewerbung endet auch die Projektplanungsphase: Die Idee wurde konkretisiert, Zeitpläne erstellt, Vernetzungsarbeit betrieben und ein Arbeitsplatz eingerichtet. Alle organisatorischen Schritte sind geleistet, wie das Erstellen einer Website zu Dokumentationszwecken und die Inbetriebnahme des GitHub Repository um erste Fortschritte zu teilen.
 
-Zur Vorbereitung der nächsten Projektphase habe ich einen Teststand gebaut, um verschiedene Mechanismem zur seriellen Auswahl der Kettfäden auszuprobieren. Dabei habe ich schon einen vielversprechenden Mechanismus gefunden, den ich aktuell weiter verbessere.
+Zum Einläuten der nächsten Projektphase wurde ein Teststand entwickelt um verschiedene Mechanismen zur seriellen Auswahl der Kettfäden erproben zu können. Erste Tests liefen sehr erfolgreich - im Speziellen habe ich schon ein vielversprechenden Mechanismus gefunden, der nun noch weiter verbessert wird. In den nächsten Projektphasen soll um diesen Mechanismus ein Webstuhl entstehen und iterativ verbessert werden.
 
 > Skizziert kurz die wichtigsten Meilensteine mit Schätzung des Arbeitsaufwands in Stunden, die ihr im Förderzeitraum von max. 6 Monaten umsetzen wollt. (100 Worte)
 
 Eine genauere Auflistung findet sich [hier](). Eine Dokumentation erfolgt fortlaufend.
 
-1. Planung (124 Stunden)
+1. Planung (abgeschlossen)
 * Recherche
 * SMARTe Ziele
 * Zeitplanung
@@ -217,18 +217,18 @@ Eine genauere Auflistung findet sich [hier](). Eine Dokumentation erfolgt fortla
 * Fundraising
 * Hochschul-Professoren für die Betreuung gewinnen
 
-2. Entwickeln des Kettfaden-Auswahlmechanismus (192 Stunden)
+2. Entwickeln des Kettfaden-Auswahlmechanismus (188 Stunden)
 * Teststand bauen
 * Mechanismen testen
 * Prüfung auf Patentrechtsverletzungen
 
-3. Webstuhl MVP (264 Stunden)
+3. Webstuhl MVP (404 Stunden)
 * Erster Prototyps
 * Minimale Software
 * Professionelle Fotos/Videos
 * Zwischenbericht als Masterthesis
 
-4. Iteration der Maschine (288 Stunden)
+4. Iteration der Maschine (320 Stunden)
 * Neue Major Version des Webstuhls
 * Robustere Software
 * Komplettpaket mit CAD-Dateien, Schaltplänen, BOM, Code, ...

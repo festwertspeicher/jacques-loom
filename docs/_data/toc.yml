@@ -7,6 +7,8 @@
       url: "news"
     - title: "Manual: Writing Documentation"
       url: "docs/writing-documentation"
+    - title: Milestones
+      url: "milestones"
 - title: "Extras"
   url: "docs/extras"
   links:
