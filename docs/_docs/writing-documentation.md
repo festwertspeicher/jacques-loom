@@ -16,9 +16,9 @@ The theme of this documentation is build on [this starter template](https://vsoc
 ## Up and Running
 
  - [install Jekyll](https://jekyllrb.com/docs/installation/)
- - clone the repository `$ git clone https://github.com/festwertspeicher/jacques-loom`
- - go to the docs folder `$ cd /docs`
- - install the packages `$ npm install`
+ - clone the repository `git clone https://github.com/festwertspeicher/jacques-loom`
+ - go to the docs folder `cd /docs`
+ - install the packages `npm install`
  - serving the Jekyll page with livereload: - `npm run jekyll:dev`
  - watching for style changes in Tailwind files and creating the static and purged CSS file: - `npm run css:watch`
 
