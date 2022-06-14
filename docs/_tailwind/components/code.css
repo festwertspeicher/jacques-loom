@@ -5,5 +5,13 @@ code {
 }
 
 pre {
-    @apply max-w-[100%] whitespace-pre-wrap break-words !overflow-x-scroll;
+    @apply max-w-[calc(100vw-3rem)];
+}
+
+.prose :where(code):not(:where([class~="not-prose"] *))::before {
+    content: normal;
+}
+
+.prose :where(code):not(:where([class~="not-prose"] *))::after {
+    content: normal;
 }

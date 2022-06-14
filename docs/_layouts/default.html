@@ -2,7 +2,7 @@
 <html lang="en-US" class="h-full scroll-smooth">
     {% include head.html %}
 
-    <body class="docs relative w-full h-full antialiased">
+    <body class="docs relative w-full max-w-[100vw] overflow-x-auto h-full antialiased">
 
         {% include scrolltop.html %}
 
@@ -15,7 +15,7 @@
             </div>
 
             <div class="col-span-1 md:col-span-3">
-                <article class="prose prose-magnet mx-auto">
+                <article class="prose prose-magnet">
                     {% if page.title %}
                     <h1 class="mb-4">
                         {{ page.title}}
