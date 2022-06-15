@@ -43,11 +43,11 @@ commercial availability, price, size and form factor, spacing of warp threads an
             <td>Digital Weaving Norway / Tronrud Engineering</td>
             <td><a href="https://digitalweaving.no/tc2-loom/">Link</a></td>
             <td>Parallel</td>
-            <td>Heddle wires are lifted directly by a vacuum pump and custom build solenoids.</td>
+            <td>Heddle wires are lifted directly by a vacuum pump and custom built solenoids.</td>
             <td>Commercial available</td>
             <td>32000€ base loom without hooks modules<br>3450€ 220-hook module (15,68€ per hook)</td>
-            <td>standalone<br>width: 122cm - 198cm<br>length: 171cm<br>height: 155cm</td>
-            <td>module width: 36.83cm / 14.5”<br>max. stack of 8 modules with 220 hooks<br>results in max. 47.79 ends per cm or 180epi</td>
+            <td>standalone<br>width: 122&nbsp;cm - 198&nbsp;cm<br>length: 171&nbsp;cm<br>height: 155&nbsp;cm</td>
+            <td>module width: 36.83&nbsp;cm / 14.5”<br>max. stack of 8 modules with 220 hooks<br>results in max. 47.79 ends per cm or 180&nbsp;epi</td>
             <td>instant &lt;1s</td>
         </tr>
         <tr>
@@ -58,20 +58,20 @@ commercial availability, price, size and form factor, spacing of warp threads an
             <td>A solenoid on each heddle wire engages or disengages it with a lifter bar</td>
             <td>Commercial available</td>
             <td>16786.47€ base loom without hook modules<br>4484.8€ 120-hook module (37,37€ per hook)</td>
-            <td>standalone<br>width: 114cm - 218cm<br>length: 167cm<br>height: 214cm</td>
-            <td>The 30” loom can hold max. 7 modules resulting in 840 hooks total<br>According to the manufacturer a special mechanism can increase the epi up to a factor of 10 by making the tissue narrower.<br>In the widest form that results in max. 11 ends per cm or 28epi.<br>In the smallest form that results in max. 110 ends per cm or 280epi.</td>
+            <td>standalone<br>width: 114&nbsp;cm - 218&nbsp;cm<br>length: 167&nbsp;cm<br>height: 214&nbsp;cm</td>
+            <td>The 30” loom can hold max. 7 modules resulting in 840 hooks total<br>According to the manufacturer a special mechanism can increase the epi up to a factor of 10 by making the tissue narrower.<br>In the widest form that results in max. 11 ends per cm or 28&nbsp;epi.<br>In the smallest form that results in max. 110 ends per cm or 280&nbsp;epi.</td>
             <td>instant &lt;1s</td>
         </tr>
             <tr>
             <td>OSLoom</td>
-            <td>Margarita Benitez, Nathan Clark, <br>Chris Yanc, Makus Vogl, Ed Benett, <br>Gary Shimomura</td>
+            <td>Margarita Benitez, Nathan Clark, <br>Chris Yanc, Markus Vogl, Ed Benett, <br>Gary Shimomura</td>
             <td><a href="http://osloom.org">Link</a></td>
             <td>Parallel</td>
             <td>Muscle Wire tied to each heddle wire engages or disengages it with a lifter bar</td>
-            <td>Used to Become an Open Hardware Project.<br>Plans were never released.<br>Project apperently not continued</td>
+            <td>Used to Become an Open Hardware Project.<br>Plans were never released.<br>Project apparently not continued</td>
             <td>Build cost estimated 800€</td>
-            <td>standalone, estimated<br>width: 80cm<br>length: 160cm<br>height: 200cm</td>
-            <td>hooks: 66<br>estimated width: 50cm<br>results in 1.32 ends per cm or 3.35epi</td>
+            <td>standalone, estimated<br>width: 80&nbsp;cm<br>length: 160&nbsp;cm<br>height: 200&nbsp;cm</td>
+            <td>hooks: 66<br>estimated width: 50&nbsp;cm<br>results in 1.32 ends per cm or 3.35&nbsp;epi</td>
             <td>estimated &lt;1s</td>
         </tr>
         <tr>
@@ -83,7 +83,7 @@ commercial availability, price, size and form factor, spacing of warp threads an
             <td>Not commercial available, CAD files and code available, license unclear</td>
             <td>Build costs under 200€</td>
             <td>Tabletop</td>
-            <td>hooks: 42<br>estimated width: 42cm<br>results in 1 ends per cm or 2.54epi</td>
+            <td>hooks: 42<br>estimated width: 42&nbsp;cm<br>results in 1 ends per cm or 2.54&nbsp;epi</td>
             <td>depending on the pattern<br>setting speed in the demonstration video video 6.5s<br>resulting in 6.46 needles per s</td>
         </tr>
         <tr>
@@ -95,7 +95,7 @@ commercial availability, price, size and form factor, spacing of warp threads an
             <td>Not commercial available, detailed build log, OSH? license unclear</td>
             <td>Build cost estimated 200€</td>
             <td>Tabletop</td>
-            <td>hooks: 80<br>width: 20cm<br>results in 4 ends per cm or 10.16epi</td>
+            <td>hooks: 80<br>width: 20&nbsp;cm<br>results in 4 ends per cm or 10.16&nbsp;epi</td>
             <td>instant &lt;1s</td>
             </tr>
             <tr>
@@ -107,7 +107,7 @@ commercial availability, price, size and form factor, spacing of warp threads an
             <td>Not commercial available, Claims to be OSH, files and documentation never released, license unclear</td>
             <td>Build cost estimated 250€</td>
             <td>Tabletop</td>
-            <td>hooks 16<br>estimated width: 35<br>results in 0.46 ends per cm or 1.16 epi</td>
+            <td>hooks: 16<br>estimated width: 35<br>results in 0.46 ends per cm or 1.16&nbsp;epi</td>
             <td>instant &lt;1s</td>
         </tr>
         <tr>
@@ -119,7 +119,7 @@ commercial availability, price, size and form factor, spacing of warp threads an
             <td>Not commercial available, Nicholls wanted to release building instructions but never released</td>
             <td>?</td>
             <td>Tabletop</td>
-            <td>hooks 32<br>estimated tissue width: 20cm<br>results in 1.6 ends per cm or 4.1epi</td>
+            <td>hooks 32<br>estimated tissue width: 20&nbsp;cm<br>results in 1.6 ends per cm or 4.1&nbsp;epi</td>
             <td>setting speed in the demonstration video 18s<br>resulting in 1.78 needles per second</td>
         </tr>
             <tr>
@@ -127,11 +127,11 @@ commercial availability, price, size and form factor, spacing of warp threads an
             <td>Kurt Schaefer</td>
             <td><a href="https://retrotechjournal.com/2019/06/17/making-a-diy-computer-controlled-loom/">Link</a></td>
             <td>Serial</td>
-            <td>A long rod with a rotating keyshaft moves eccentric disks to engage or disengage the heddle wire with a lifter bar</td>
+            <td>A long rod with a rotating key shaft moves eccentric disks to engage or disengage the heddle wire with a lifter bar</td>
             <td>Not commercial available, OSH (MIT license)</td>
             <td>Estimated build cost 300€</td>
             <td>Tabletop</td>
-            <td>hooks 60<br>estimated tissue width 30cm<br>results in 2 ends per cm or 5.08epi</td>
+            <td>hooks: 60<br>estimated tissue width 30&nbsp;cm<br>results in 2 ends per cm or 5.08&nbsp;epi</td>
             <td>setting speed in the demonstration video about <br>1 needle per second</td>
         </tr>
         <tr>
@@ -139,12 +139,12 @@ commercial availability, price, size and form factor, spacing of warp threads an
             <td>Norman Heck</td>
             <td><a href="https://festwertspeicher.github.io/jacques-loom/">Link</a></td>
             <td>Serial</td>
-            <td>A carriage moving hooks with a pressurised air nozzle to engage or disengage heddle wires with a lifter bar</td>
+            <td>A carriage moving hooks with a pressurized air nozzle to engage or disengage heddle wires with a lifter bar</td>
             <td>Not commercial available, OSH (license to be defined)</td>
             <td>Planed build cost &lt;500€ for the loom with one module</td>
             <td>Tabletop</td>
-            <td>planed with one module:<br>hooks 100 (parametric)<br>estimated tissue width: 40 (parametric)<br>results in 2.5 ends per cm or 6.35epi (fixed)<br><br>modules should be stackable to increase the epi</td>
-            <td>planed at least 10 needles per second, preferably 20-30 needles per second</td>
+            <td>with one module:<br>hooks: 100 (parametric)<br>estimated tissue width: 40 (parametric)<br>results in 2.5 ends per cm or 6.35&nbsp;epi (fixed)<br>two modules can be stacked to double the epi<br><br>modules should be stackable to increase the epi</td>
+            <td>at least 10 needles per second, preferably 20-30 needles per second</td>
         </tr>
     </tbody>
     </table>
