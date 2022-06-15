@@ -81,7 +81,7 @@ Additionally, the place brings together over 100 skilled members who can assist 
 
 In addition to the large industrial machines, there are two commercial jacquard looms that fall into a similar category as my loom: AVL's Jacq3G and Digital Weaving Norway's TC2. Both of them control the warp threads via hundreds of actuators. Due to the serial mechanism, the material cost for my loom will only be a fraction of the price. A somewhat similar mechanism is used in electronic flatbed knitting machines.
 
-There have been several attempts to build small Jacquard looms. All projects are far from my desired specifications (setting speed, fabric density). You can find my overview of the available projects [here](). Worth mentioning are [1](http://lea.zone/jacquard_handweaving.html), [2](https://retrotechjournal.com/2019/06/17/making-a-diy-computer-controlled-loom/) and [3](https://www.youtube.com/watch?v=iqlxO5RYyGU), as they also use a serial selection mechanism.
+There have been several attempts to build small Jacquard looms. All projects are far from my desired specifications (setting speed, fabric density). You can find my overview of the available projects [here]({{ site.baseurl }}/2022/market-overview). Worth mentioning are [1](http://lea.zone/jacquard_handweaving.html), [2](https://retrotechjournal.com/2019/06/17/making-a-diy-computer-controlled-loom/) and [3](https://www.youtube.com/watch?v=iqlxO5RYyGU), as they also use a serial selection mechanism.
 
 > Have you already worked on the idea? If yes, briefly describe the current status and explain the innovation that will be added during the fund/funding period.
 
@@ -91,7 +91,7 @@ To start the next phase of the project, a test rig has been developed to test di
 
 > Briefly outline the key milestones, with an estimate of the workload in hours, that you plan to complete in the funding period of a maximum of 6 months.
 
-A more detailed list can be found [here](). Documentation will be provided on an ongoing basis.
+A more detailed schedule can be found [here]({{ site.baseurl }}/milestones). Documentation will be provided on an ongoing basis.
 
 1. Planning (finished)
 * Research
@@ -196,7 +196,7 @@ Zusätzlich vereint der Ort über 100 kompetente Mitglieder, die mir in ihrem Fa
 
 Neben den großen Industriemaschinen gibt es zwei kommerzielle Jacquardwebstühle, die in eine ähnliche Kategorie wie mein Webstuhl fallen: Der Jacq3G von AVL und der TC2 von Digital Weaving Norway. Sie steuern die Kettfäden über hunderte Aktoren an. Die Materialkosten meines Webstuhls belaufen sich durch den seriellen Mechanismus auf einen Bruchteil des Preises. Ein ähnlicher Mechanismus wird bei elektronischen Flachbett-Strickmaschinen genutzt.
 
-Es gab bereits mehrere Versuche, kleine Jacquardwebstühle zu bauen. Alle Projekte sind weit von meinen gewünschten Kenngrößen (Stellgeschwindigkeit, Gewebedichte) entfernt. Eine Übersicht der Projekte ist [hier]() aufgestellt. Erwähnenswert sind [1](http://lea.zone/jacquard_handweaving.html), [2](https://retrotechjournal.com/2019/06/17/making-a-diy-computer-controlled-loom/) und [3](https://www.youtube.com/watch?v=iqlxO5RYyGU), da sie ebenfalls einen seriellen Selektionsmechanismus verwenden.
+Es gab bereits mehrere Versuche, kleine Jacquardwebstühle zu bauen. Alle Projekte sind weit von meinen gewünschten Kenngrößen (Stellgeschwindigkeit, Gewebedichte) entfernt. Eine Übersicht der Projekte ist [hier]({{ site.baseurl }}/2022/market-overview)) aufgestellt. Erwähnenswert sind [1](http://lea.zone/jacquard_handweaving.html), [2](https://retrotechjournal.com/2019/06/17/making-a-diy-computer-controlled-loom/) und [3](https://www.youtube.com/watch?v=iqlxO5RYyGU), da sie ebenfalls einen seriellen Selektionsmechanismus verwenden.
 
 > Habt ihr schon an der Idee gearbeitet? Wenn ja, beschreibt kurz den aktuellen Stand und erklärt die Neuerung, die im Rahmen des Funds/Förderzeitraums hinzukommen sollen. (100 Worte)
 
@@ -206,7 +206,7 @@ Zum Einläuten der nächsten Projektphase wurde ein Teststand entwickelt um vers
 
 > Skizziert kurz die wichtigsten Meilensteine mit Schätzung des Arbeitsaufwands in Stunden, die ihr im Förderzeitraum von max. 6 Monaten umsetzen wollt. (100 Worte)
 
-Eine genauere Auflistung findet sich [hier](). Eine Dokumentation erfolgt fortlaufend.
+Eine genauere Auflistung findet sich [hier]({{ site.baseurl }}/milestones). Eine Dokumentation erfolgt fortlaufend.
 
 1. Planung (abgeschlossen)
 * Recherche
