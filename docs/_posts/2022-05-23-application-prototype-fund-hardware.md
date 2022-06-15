@@ -9,7 +9,7 @@ badges:
    name: foundation
 ---
 
-This is a non commercial open source project. I spend a lot of time refining the idea of the project and will spend a lot of time bringing it to life, and making it accessible to the public. To get some money for the materials and development of this project I want to get a funding from the 'Prototype Fund Hardware'. Through the application process I answered a lot of questions about the 'Jacques' Loom Project. The answers in the application are a good overview of the project. So I thought this might be a good first post to get you in the project. The questions and answers are translated to english to reach a brighter audience, the application has to be necissairily in german language. You can find the original German version below.
+This is a non commercial open source project. I spend a lot of time refining the idea of the project and will spend a lot of time bringing it to life, and making it accessible to the public. To get some money for the materials and development of this project I want to get funding from the 'Prototype Fund Hardware'. Through the application process I answered a lot of questions about the 'Jacques' Loom Project. The answers in the application are a good overview of the project. So I thought this might be a good first post to get you in the project. The questions and answers are translated to english to reach a brighter audience, the application has to be necessarily in german language. You can find the original German version below.
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Textiles or fabrics are almost exclusively imported and involve a non-transparen
 
 Today, looms are large-scale industrial production tools that are not accessible to small-scale manufacturers. There are hardly any affordable, compact and modern looms for non-industrial applications. This is especially true for jacquard looms. 
 
-A jacquard loom can create highly complex fabrics by individually raising or lowering each vertical warp thread during the weaving process. This allows entire pictures to be woven. Other loom types are not versatile with very limited design possibilities resulting in repeatitive pattern (e.&nbsp;g. check pattern) and usually no binding variation (e.&nbsp;g. denim binding only.
+A jacquard loom can create highly complex fabrics by individually raising or lowering each vertical warp thread during the weaving process. This allows entire pictures to be woven. Other loom types are not versatile with very limited design possibilities resulting in repetitive patterns (e.&nbsp;g. check pattern) and usually no binding variation (e.&nbsp;g. denim binding only.
 
 The goal of this project is to make jacquard weaving more accessible. An alternative to large-scale industrial production methods should make people able to act and enable independent decentralized production of small series, prototypes and experiments.
 
@@ -29,7 +29,7 @@ To solve the above problems and achieve the goals, I would like to develop an Op
 
 > What social problem do you want to solve with the project?
 
-The explosive increase in demand for clothing is having a huge social and environmental impact. The required resources and transport emissions for our textiles are becoming an growing problem. Clothing is mostly produced in Asian countries under poor working conditions. The production and supply chains of imported textiles are intransparent and beyond any control. Produced and unsold clothing is destroyed on a large scale.
+The explosive increase in demand for clothing is having a huge social and environmental impact. The required resources and transport emissions for our textiles are becoming a growing problem. Clothing is mostly produced in Asian countries under poor working conditions. The production and supply chains of imported textiles are intransparent and beyond any control. Produced and unsold clothing is destroyed on a large scale.
 
 Modern affordable tools are missing for small textile production environments. With a digitally controllable jacquard loom, complex fabrics can be produced locally again and manufacturing processes can be redefined – from material selection to fabric construction, prototyping to testing new working and distribution models. Products made decentrally for the local community create decent jobs, fair production conditions, and cause fewer transportation emissions without wasteful overproduction. Local on-demand production enables independently produced fabrics and has the power to break problematic production and supply chains. This is an essential step in building a modern circular economy.
 
@@ -47,7 +47,7 @@ Through Open Hardware, the project can extend its reach and empower more people 
 
 By disclosing the product development, the project does not have to be ready for the market before it reaches people and communities. As a Minimum Viable Product, it can be tested whether there is any interest and need at all for a finished consumer product.
 
-Through a collaborative product development, the project can be improved continuously in an iterative way. People from different disciplines can contribute their skills and benefit from each other. The project needs people to continuously test the loom, contribute their wishes, suggestions and experiences and develop it further. The exchange of knowledge and information promotes communities, strengthens efforts for standardization, modularity, expandability, repairability and maintainability.
+Through collaborative product development, the project can be improved continuously in an iterative way. People from different disciplines can contribute their skills and benefit from each other. The project needs people to continuously test the loom, contribute their wishes, suggestions and experiences and develop it further. The exchange of knowledge and information promotes communities, strengthens efforts for standardization, modularity, expandability, repairability and maintainability.
 
 > What skills do you bring to the table to implement the project?
 

@@ -9,9 +9,9 @@ author:
 
 ## What
 
-On this Page you can find instructions on how to write or edit this website. This is a [Jekyll page](https://jekyllrb.com/) living in the projects [github repository]({{ site.repo }}) in the `/docs` subfolder. For more information on Github Pages see [this documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
+On this Page you can find instructions on how to write or edit this website. This is a [Jekyll page](https://jekyllrb.com/) living in the project's [github repository]({{ site.repo }}) in the `/docs` subfolder. For more information on Github Pages see [this documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
 
-The theme of this documentation is build on [this starter template](https://vsoch.github.com/tw-jekyll/). Everything has been modified to fit my needs. The original [Apache License](https://github.com/vsoch/tw-jekyll/tree/main/LICENSE) is included. For CSS Styling the latest Version of Tailwind is used. The Build Process of Tailwind is not running on the Github Server and needs to be deployd along with your Commit.
+The theme of this documentation is built on [this starter template](https://vsoch.github.com/tw-jekyll/). Everything has been modified to fit my needs. The original [Apache License](https://github.com/vsoch/tw-jekyll/tree/main/LICENSE) is included. For CSS Styling the latest Version of Tailwind is used. The Build Process of Tailwind is not running on the Github Server and needs to be deployed along with your Commit.
 
 ## Up and Running
 

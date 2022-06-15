@@ -3,14 +3,14 @@ title: Milestones
 permalink: /milestones/
 ---
 
-## 1. Planing and Getting Started
+## 1. Planning and Getting Started
 
 ### Goals of this Project Phase
 
-* Have an overview of the project by setting up milestones, writing down (SMART) goals for each milestone, creating a Gantt diagram for the project and writing down whats not included by 18.06.2022.
-* Have a good basis for starting the documentation and writing about the project by setting up a Website covering basic informations by 15.06.2022.
+* Have an overview of the project by setting up milestones, writing down (SMART) goals for each milestone, creating a Gantt diagram for the project and writing down what's not included by 18.06.2022.
+* Have a good basis for starting the documentation and writing about the project by setting up a Website covering basic information by 15.06.2022.
 * Gain knowledge, suggestions, support, through networking and starting conversations with peoples and institutions to further improve the quality and make the project known to local influencers in this field until 30.06.2022
-* Get financial support and extended the supportive network from applying to Prototype Fund Hardware on 15.06.2022.
+* Get financial support and extend the supportive network from applying to Prototype Fund Hardware on 15.06.2022.
 * Have my supervisors up to date with the development of the project by meeting them until 30.06.2022.
 
 ### Tasks of this Project Phase
@@ -27,7 +27,7 @@ E.g.: I won't make assembly guides for people to follow along for my thesis, bec
 - [X] Create a (private) Link List with collected informations
 - [ ] Create a timetable for the project phases *(0.5d)*
 - [ ] Define Goals / SMART Goals for every Milestone *(0.5d)*
-- [ ] Read and use the Project Planing Book. *(0.5d)*
+- [ ] Read and use the project planning book. *(0.5d)*
 - [ ] Define Questions and interview Alex Moeller (Loom Maker and Inventor) *(1d)*
 - [ ] Show my progress to Aram Bartholl und Peter Kabel *(0.5d)*
 - [ ] Talk about my project with Studio Hilo *(0.25d)*
@@ -44,19 +44,19 @@ E.g.: I won't make assembly guides for people to follow along for my thesis, bec
 
 * Invent a serial warp thread selection mechanism by building a modular teststand with a linear actor and testing at least three different mechanisms on it. The desired mechanism should fulfill the desired specs of my loom (reliability, tissue density, speed).
 * Make sure the mechanism doesn't infringe a patent of by having it checked from a lawyer
-* Ensure that the mechanism cannot be patented by a company by making it publicly available and choosing the right Open Hardware Licence for my project by consulting a lawyer
+* Ensure that the mechanism cannot be patented by a company by making it publicly available and choosing the right Open Hardware License for my project by consulting a lawyer
 * Documenting the process by writing about the tested mechanisms and what specs they achieved.
 
 ### Tasks of this Project Phase
 
 - [X] Build a linear actor teststand with a modular design to attach a variety of different mechanisms to it *(improvements 0.5d)*
-- [X] Build a controllable pressurised air distribution unit
-- [ ] Build and test at least three mechanisms: do they work? what needs to be improved, what could be problems with the mechanism? can they reach the setted goals? *(15d)*
+- [X] Build a controllable pressurized air distribution unit
+- [ ] Build and test at least three mechanisms: do they work? what needs to be improved, what could be problems with the mechanism? Can they reach the set goals? *(15d)*
 - [ ] Build a simple software to test the mechanism *(2d)*
 - [ ] Getting my supervisors on board with the development of the project *(0.5d)*
 - [ ] Get a lawyer for checking patent infringement *(0.25d)*
-- [ ] getting a consultation on choosing the right Open Hardware licence. *(0.25d)*
-- [ ] Document the process continously *(5d)*
+- [ ] getting a consultation on choosing the right Open Hardware license. *(0.25d)*
+- [ ] Document the process continuously *(5d)*
 
 *total 188h*
 
@@ -65,13 +65,13 @@ E.g.: I won't make assembly guides for people to follow along for my thesis, bec
 ### Goals of this Project Phase
 
 * Weave first fabrics by building a prototype loom with the found mechanism and running a minimal but sufficient software to uploaded images
-* By building the prototype i want to learn how to design the other components of the loom. What works, what doesn't work?
+* By building a fast prototype I want to learn how to design the other components of the loom. What works, what doesn't work?
 
 ### Tasks of this Project Phase
 - [ ] Source materials *(0.5d)*
 - [ ] Iterative: Design a loom with the found mechanism in CAD software *(14d)*
 - [ ] Iterative: Build the loom. What needs to be improved? *(4d)*
-- [ ] Write very simple but robust and sufficient software, including a (web) GUI, Software for the microcontroller, basic communication protocoll and image upload *(6d)*
+- [ ] Write very simple but robust and sufficient software, including a (web) GUI, Software for the microcontroller, basic communication protocol and image upload *(6d)*
 - [ ] Documentation of the Process *(8d)*
 
 *total 280h*
@@ -88,7 +88,7 @@ E.g.: I won't make assembly guides for people to follow along for my thesis, bec
 - [ ] editing of the photos *(1d)*
 - [ ] Filming a video *(1d)*
 - [ ] Cutting and editing the video *(3d)*
-- [ ] Extrakt all texts form the website *(0.5d)*
+- [ ] Extract all texts from the website and use a markdown importer for inDesign *(0.5d)*
 - [ ] Proof read all texts from the website *(1d)* 
 - [ ] Fill the logical gaps. Is there content missing and where? Is everything up to date? *(4d)*
 - [ ] Getting the text lectured
@@ -103,9 +103,9 @@ E.g.: I won't make assembly guides for people to follow along for my thesis, bec
 
 ### Goals of this Project Phase
 
-* Design and build the first reliable major version of the loom by combining the learnings from the previous phases and starting from scratch with a new parametric CAD modell.
+* Design and build the first reliable major version of the loom by combining the learnings from the previous phases and starting from scratch with a new parametric CAD model.
 * Arouse interest by having nice promo photos/videos of the loom.
-* The loom should be easy to recreate by making CAD files, schematics, BOM along available alongside detailed and illustrated step-by-step building instructions.
+* The loom should be easy to recreate by making CAD files, schematics, BOM available alongside detailed and illustrated step-by-step building instructions.
 * The loom should be easy to operate by having articles on how to use the machine and running a more robust and failsafe software with a decent user interface.
 
 ### Tasks of this Project Phase
@@ -114,9 +114,9 @@ E.g.: I won't make assembly guides for people to follow along for my thesis, bec
 - [ ] Take promo photos and videos of the finished loom *(2d)*
 - [ ] editing of the promo photos *(1d)*
 - [ ] cutting and editing the promo video *(4d)*
-- [ ] creating a new software version with a decent communication protocoll and advanced GUI *(6d)*
+- [ ] creating a new software version with a decent communication protocol and advanced GUI *(6d)*
 - [ ] update website, move all outdated buildlog stuff to an archive page *(1d)*
-- [ ] Make a nice package with CAD Files, Schematics, BOM and Code available *(1d)*
+- [ ] Make a nice package with CAD Files, Schematics and BOM and Code available *(1d)*
 - [ ] Disassemble and reassemble the loom. Taking videos / photos of the assembly *(1d)*
 - [ ] editing of the assembly photos *(1d)*
 - [ ] cutting and editing the assembly video *(3d)*
