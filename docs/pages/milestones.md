@@ -65,7 +65,7 @@ E.g.: I won't make assembly guides for people to follow along for my thesis, bec
 ### Goals of this Project Phase
 
 * Weave first fabrics by building a prototype loom with the found mechanism and running a minimal but sufficient software to uploaded images
-* By building a fast prototype I want to learn how to design the other components of the loom. What works, what doesn't work?
+* I want to learn how to design the other components of the loom by building a fast prototype. What works, what doesn't work?
 
 ### Tasks of this Project Phase
 - [ ] Source materials *(0.5d)*
