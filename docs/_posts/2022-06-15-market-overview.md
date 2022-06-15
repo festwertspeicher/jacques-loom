@@ -1,6 +1,6 @@
 ---
 title:  "Market Overview and Desired Specs"
-date:   2022-05-23 00:00:01
+date:   2022-06-15 00:00:01
 categories: funding, phase 1
 badges:
  - class: badge-electronic
