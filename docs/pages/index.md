@@ -12,6 +12,9 @@ Jacquard weaving is a large-scale production method highly inaccessible for desi
 
 To make Jacquard weaving more accessible and tackle the mentioned problems I want to design an inexpensive and small Open Hardware Jacquard loom for private and small scale usage. A new warp selection mechanism will make the loom significantly cheaper and smaller to build than the current industry standards but makes sacrifices in speed and tissue density as a trade off.
 
+![the test rig for the warp selection mechanism]({{ site.baseurl }}/assets/img/test-rig.jpg)
+*The test rig for experimenting with different warp selection mechanisms*
+
 The Project will be an Open Hardware Project - comprehensible, for other people to rebuild and improve with a transparent development phase through a build log on this Website. Thereby I try to explain and illuminate my (design) decisions on this special regard. The CAD files, Gerber files and schematics, bill of materials, software code and a detailed assembly instructions will be available to the public for people to build their own loom. The ultimate goal is a fully functional machine that goes beyond a proof of concept status and serves as a real production tool.
 
 The interims report and the first prototypes will be my practical project to get my MA degree at the Hochschule für angewandte Wissenschaften Hamburg.
