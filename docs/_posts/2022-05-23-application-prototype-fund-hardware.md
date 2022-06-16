@@ -15,6 +15,8 @@ This is a non commercial open source project. I spend a lot of time refining the
 
 [The Prototype Fund Hardware](https://hardware.prototypefund.de/) is a project of the [Open Knowledge Foundation Deutschland](https://okfn.de/), funded by the German Federal Ministry of Education and Research ("[Bundesministerium für Bildung und Forschung](https://www.bmbf.de/)") within the context of [WIR](https://www.innovation-strukturwandel.de/strukturwandel/de/innovation-strukturwandel/_documents/artikel/kontakt.html?nn=452028) and the project [WI+R](https://digitale-reparaturfabrik.de/).
 
+---
+
 > Brief description: summarize the problem area, the main objectives of the project, and your solution.
 
 Textiles or fabrics are almost exclusively imported and involve a non-transparent production and supply chain as well as extensive ecological and political problems.
@@ -129,6 +131,9 @@ It is delusional to claim that this project is the best or only solution to the 
 
 The interim report of the project is also my master's thesis at the Hamburg University of Applied Sciences in the Department of Design. The project is supervised by Aram Bartholl and professor Peter Kabel.
 
+---
+
+<div markdown="1" lang="de">
 
 ## In German Language
 
@@ -244,3 +249,4 @@ Es ist illusorisch, zu behaupten, dieses Projekt sei die beste oder einzige Lös
 
 Der Zwischenbericht des Projekts ist meine Masterthesis an der Hochschule für angewandte Wissenschaften Hamburg im Fachbereich Design. Betreut wird das Projekt durch Aram Bartholl und Professor Peter Kabel.
 
+</div>
