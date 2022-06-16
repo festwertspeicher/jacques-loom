@@ -18,7 +18,7 @@ Weaving is considered to be the first technique for the production of textile fa
 
 This project aims to revisit the transition from manual labor to large industrial machines, using modern technological capabilities to recapture, democratize, and make the production method available for everyone.
 
-<div class="w-full overflow-x-auto">
+<div class="overflow-x-auto">
     <table class="prose-sm table-auto">
         <thead>
             <tr>

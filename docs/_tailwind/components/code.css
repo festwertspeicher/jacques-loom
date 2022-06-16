@@ -4,18 +4,10 @@ code {
     @apply bg-magnet-200 p-1 rounded-sm;
 }
 
-pre {
-    @apply max-w-[calc(100vw-3rem)];
-}
-
 .prose :where(code):not(:where([class~="not-prose"] *))::before {
     content: normal;
 }
 
 .prose :where(code):not(:where([class~="not-prose"] *))::after {
     content: normal;
-}
-
-.prose {
-    th, td { min-width: 200px; }
 }
