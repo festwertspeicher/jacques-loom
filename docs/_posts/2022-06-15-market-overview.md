@@ -16,6 +16,25 @@ In this article, I would like to give an overview of similar solutions that alre
 
 Weaving is considered to be the first technique for the production of textile fabrics and therefore belongs to the oldest artisan crafts of mankind. The history of weaving goes far beyond our historical records and findings. Needless to say, the production tools for fabrics have also become more and more advanced over thousands of years. The automated loom was one of the central technological breakthroughs and is considered as a symbol of the industrial revolution. It marked the transition from the age of manual craftsmanship to mass production. The Jacquard loom is also considered, through the use of punch cards, to be the first programmable device and the inspiration for the first computers. Modern industrial looms are almost completely automated and reach unimaginable speeds.
 
+<div class="grid grid-cols-2 gap-4">
+    <div>
+        <figure>
+            <img src="{{ site.baseurl }}/assets/img/2022-06-15-market-overview/jacquard-loom.jpg" alt="Illustration of a mechanical Jacquard loom from 1862">
+            <figcaption>
+                Illustration of a mechanical Jacquard loom from 1862, Copyright <a href="https://wellcomecollection.org/works/rrqs9wgs">Wellcome Collection</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY 4.0</a>, edited
+            </figcaption>
+        </figure>
+    </div>
+    <div>
+        <figure>
+            <img src="{{ site.baseurl }}/assets/img/2022-06-15-market-overview/modern-jacquard.jpg" alt="Photo of a modern Jacquard loom">
+            <figcaption>
+                Photo of a modern Jacquard loom, Copyright <a href="https://commons.wikimedia.org/wiki/File:New_Jacquard.jpg">Bouletheboss</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY 4.0</a>, edited
+            </figcaption>
+        </figure>
+    </div>
+</div>
+
 This project aims to revisit the transition from manual labor to large industrial machines, using modern technological capabilities to recapture, democratize, and make the production method available for everyone.
 
 <div class="overflow-scroll h-[75vh] prose-sm border-y-2 border-air-500 mt-16 -mx-4 md:mx-0">
