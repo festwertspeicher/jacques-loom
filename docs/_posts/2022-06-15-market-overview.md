@@ -18,9 +18,9 @@ Weaving is considered to be the first technique for the production of textile fa
 
 This project aims to revisit the transition from manual labor to large industrial machines, using modern technological capabilities to recapture, democratize, and make the production method available for everyone.
 
-<div class="overflow-x-auto">
-    <table class="prose-sm table-auto">
-        <thead>
+<div class="overflow-auto h-[75vh] prose-sm border-y-2 border-air-500 mt-16">
+    <table class="table-auto relative w-full">
+        <thead class="sticky bg-white top-0 shadow-[0_2px_0px_0px_#0099ff]">
             <tr>
                 <th>ID</th>
                 <th>Name</th>
@@ -32,7 +32,7 @@ This project aims to revisit the transition from manual labor to large industria
                     Commercial Available /<br>
                     Open Source Hardware
                 </th>
-                <th class="min-w-[250px]">Estimated Price Without Shipping and Taxes</th>
+                <th class="min-w-[300px]">Estimated Price Without Shipping and Taxes</th>
                 <th class="min-w-[200px]">Form Factor</th>
                 <th class="min-w-[320px]">Warp Density</th>
                 <th class="min-w-[250px]">setting speed</th>
