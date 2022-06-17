@@ -18,7 +18,7 @@ Weaving is considered to be the first technique for the production of textile fa
 
 This project aims to revisit the transition from manual labor to large industrial machines, using modern technological capabilities to recapture, democratize, and make the production method available for everyone.
 
-<div class="overflow-auto h-[75vh] prose-sm border-y-2 border-air-500 mt-16">
+<div class="overflow-scroll h-[75vh] prose-sm border-y-2 border-air-500 mt-16 -mx-5 md:mx-0">
     <table class="table-auto relative w-full">
         <thead class="sticky bg-white top-0 shadow-[0_2px_0px_0px_#0099ff]">
             <tr>
@@ -36,7 +36,6 @@ This project aims to revisit the transition from manual labor to large industria
                 <th class="min-w-[200px]">Form Factor</th>
                 <th class="min-w-[320px]">Warp Density</th>
                 <th class="min-w-[250px]">setting speed</th>
-                <th>power consumption</th>
             </tr>
         </thead>
         <tbody>
@@ -64,7 +63,6 @@ This project aims to revisit the transition from manual labor to large industria
                     resulting in max. 47.79 ends per cm or 180&nbsp;epi
                 </td>
                 <td>instant &lt;1s</td>
-                <td></td>
             </tr>
             <tr>
                 <td>2</td>
@@ -90,7 +88,6 @@ This project aims to revisit the transition from manual labor to large industria
                     In the smallest form that results in max. 110 ends per cm or 280&nbsp;epi.
                 </td>
                 <td>instant &lt;1s</td>
-                <td></td>
             </tr>
             <tr>
                 <td>3</td>
@@ -121,7 +118,6 @@ This project aims to revisit the transition from manual labor to large industria
                     results in 1.32 ends per cm or 3.35&nbsp;epi
                 </td>
                 <td>estimated 2s</td>
-                <td></td>
             </tr>
             <tr>
                 <td>4</td>
@@ -143,7 +139,6 @@ This project aims to revisit the transition from manual labor to large industria
                     setting speed in the demonstration video video 6.5s<br>
                     resulting in 6.46 needles per s
                 </td>
-                <td></td>
             </tr>
             <tr>
                 <td>5</td>
@@ -161,7 +156,6 @@ This project aims to revisit the transition from manual labor to large industria
                     results in 4 ends per cm or 10.16&nbsp;epi
                 </td>
                 <td>instant &lt;1s</td>
-                <td></td>
             </tr>
             <tr>
                 <td>6</td>
@@ -179,7 +173,6 @@ This project aims to revisit the transition from manual labor to large industria
                     results in 0.46 ends per cm or 1.16&nbsp;epi
                 </td>
                 <td>instant &lt;1s</td>
-                <td></td>
             </tr>
             <tr>
                 <td>7</td>
@@ -204,7 +197,6 @@ This project aims to revisit the transition from manual labor to large industria
                     setting speed in the demonstration video 18s<br>
                     resulting in 1.78 needles per second
                 </td>
-                <td></td>
             </tr>
             <tr>
                 <td>8</td>
@@ -215,7 +207,10 @@ This project aims to revisit the transition from manual labor to large industria
                 <td>A long rod with a rotating key shaft moves eccentric disks to engage or disengage the heddle wire with a lifter bar</td>
                 <td>Not commercial available, OSH (MIT license)</td>
                 <td>Estimated build cost 300€</td>
-                <td>Tabletop</td>
+                <td>
+                    Tabletop<br>
+                    Machine size twice the width of the fabric because of the moving rod
+                </td>
                 <td>
                     hooks: 60<br>
                     estimated tissue width 30&nbsp;cm<br>
@@ -225,7 +220,6 @@ This project aims to revisit the transition from manual labor to large industria
                     setting speed in the demonstration video about <br>
                     1 needle per second
                 </td>
-                <td></td>
             </tr>
             <tr>
                 <td>9</td>
@@ -247,7 +241,6 @@ This project aims to revisit the transition from manual labor to large industria
                     modules should be stackable to increase the epi
                 </td>
                 <td>at least 10 needles per second, preferably 20-30 needles per second</td>
-                <td></td>
             </tr>
         </tbody>
     </table>
