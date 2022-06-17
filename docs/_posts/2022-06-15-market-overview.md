@@ -18,11 +18,11 @@ Weaving is considered to be the first technique for the production of textile fa
 
 This project aims to revisit the transition from manual labor to large industrial machines, using modern technological capabilities to recapture, democratize, and make the production method available for everyone.
 
-<div class="overflow-scroll h-[75vh] prose-sm border-y-2 border-air-500 mt-16 -mx-5 md:mx-0">
+<div class="overflow-scroll h-[75vh] prose-sm border-y-2 border-air-500 mt-16 -mx-4 md:mx-0">
     <table class="table-auto relative w-full">
         <thead class="sticky bg-white top-0 shadow-[0_2px_0px_0px_#0099ff]">
             <tr>
-                <th>ID</th>
+                <th class="text-right min-w-[35px]">ID</th>
                 <th>Name</th>
                 <th>Manufacturer</th>
                 <th>Website</th>
@@ -40,7 +40,7 @@ This project aims to revisit the transition from manual labor to large industria
         </thead>
         <tbody>
             <tr>
-                <td>1</td>
+                <td class="text-right">1</td>
                 <td>TC2</td>
                 <td>Digital Weaving Norway / Tronrud Engineering</td>
                 <td><a href="https://digitalweaving.no/tc2-loom/">Link</a></td>
@@ -65,7 +65,7 @@ This project aims to revisit the transition from manual labor to large industria
                 <td>instant &lt;1s</td>
             </tr>
             <tr>
-                <td>2</td>
+                <td class="text-right">2</td>
                 <td>Jac3g</td>
                 <td>AVL</td>
                 <td><a href="https://avllooms.com/collections/looms/products/jacq3g">Link</a></td>
@@ -90,7 +90,7 @@ This project aims to revisit the transition from manual labor to large industria
                 <td>instant &lt;1s</td>
             </tr>
             <tr>
-                <td>3</td>
+                <td class="text-right">3</td>
                 <td>OSLoom</td>
                 <td>
                     Benitez, Clark, Yanc,<br>
@@ -120,7 +120,7 @@ This project aims to revisit the transition from manual labor to large industria
                 <td>estimated 2s</td>
             </tr>
             <tr>
-                <td>4</td>
+                <td class="text-right">4</td>
                 <td>Low Cost Jacquard Loom</td>
                 <td>Albaugh, McCann, Yao, Hudson</td>
                 <td><a href="https://dl.acm.org/doi/10.1145/3411764.3445750">Link</a></td>
@@ -141,7 +141,7 @@ This project aims to revisit the transition from manual labor to large industria
                 </td>
             </tr>
             <tr>
-                <td>5</td>
+                <td class="text-right">5</td>
                 <td>FabLoom 2.0</td>
                 <td>Edward Muñoz</td>
                 <td><a href="http://archive.fabacademy.org/archives/2016/fablabpuebla/students/261/final-project.html">Link</a></td>
@@ -158,7 +158,7 @@ This project aims to revisit the transition from manual labor to large industria
                 <td>instant &lt;1s</td>
             </tr>
             <tr>
-                <td>6</td>
+                <td class="text-right">6</td>
                 <td>Doti</td>
                 <td>Pamela Liou</td>
                 <td><a href="http://dotilikestoweave.com/index">Link</a></td>
@@ -175,7 +175,7 @@ This project aims to revisit the transition from manual labor to large industria
                 <td>instant &lt;1s</td>
             </tr>
             <tr>
-                <td>7</td>
+                <td class="text-right">7</td>
                 <td>Weav3r</td>
                 <td>Jerry Nicholls</td>
                 <td>
@@ -199,7 +199,7 @@ This project aims to revisit the transition from manual labor to large industria
                 </td>
             </tr>
             <tr>
-                <td>8</td>
+                <td class="text-right">8</td>
                 <td>Computer Controlled Loom</td>
                 <td>Schaefer</td>
                 <td><a href="https://retrotechjournal.com/2019/06/17/making-a-diy-computer-controlled-loom/">Link</a></td>
@@ -222,7 +222,7 @@ This project aims to revisit the transition from manual labor to large industria
                 </td>
             </tr>
             <tr>
-                <td>9</td>
+                <td class="text-right">9</td>
                 <td>Jacques</td>
                 <td>Norman Heck</td>
                 <td><a href="https://festwertspeicher.github.io/jacques-loom/">Link</a></td>
