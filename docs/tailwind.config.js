@@ -1,8 +1,10 @@
 module.exports = {
     content: [
+        "./_docs/**/*.{html,js,md,svg}",
         "./_includes/**/*.{html,js,md,svg}",
         "./_layouts/**/*.{html,js,md,svg}",
         "./_posts/*.{html,js,md,svg}",
+        "./pages/**/*.{html,js,md,svg}",
         "./*.{html,js,md,svg}"
     ],
     theme: {
