@@ -15,26 +15,26 @@ permalink: /milestones/
 
 ### Tasks of this Project Phase
 
-- [X] Become member of a makerspace and workplace set up
-- [X] Define the main goal and explain why it's the main goal more detailed 
+- [x] Become member of a makerspace and workplace set up
+- [x] Define the main goal and explain why it's the main goal more detailed 
 - [ ] Define what is part of this project (and thesis) and what parts I won't cover for now.
 E.g.: I won't make assembly guides for people to follow along for my thesis, because I want to cover different aspects of this project but instruction manuals will be an important part of this project later. *(1d)*
 - [ ] Write an Article on the basic principles of a (Jacquard) loom including a glossary for readers to learn the lingo. Describe how my heddle selection mechanism should differ from existing machines. *(2d)*
-- [ ] Research and make a "Market analysis" - What is already on the market, what was done before. Why was it done that way, what are the Pros and Cons? *(1d)*
+- [x] Research and make a "Market analysis" - What is already on the market, what was done before. Why was it done that way, what are the Pros and Cons?
 - [x] Create a Github Project, add Jekyll Website for Documentation
 - [x] Create minimalistic branding (define Name, Logo, colors) and build Jekyll Theme
-- [ ] Have a short introduction of myself on the website. Show the way I work with some former projects. *(0.5d)*
-- [X] Create a (private) Link List with collected informations
+- [x] Have a short introduction of myself on the website. Show the way I work with some former projects. *(0.5d)*
+- [x] Create a (private) Link List with collected informations
 - [ ] Create a timetable for the project phases *(0.5d)*
-- [ ] Define Goals / SMART Goals for every Milestone *(0.5d)*
+- [x] Define Goals / SMART Goals for every Milestone
 - [ ] Read and use the project planning book. *(0.5d)*
-- [ ] Define Questions and interview Alex Moeller (Loom Maker and Inventor) *(1d)*
+- [X] Define Questions and interview Andreas Moeller (Loom Maker and Inventor) *(1d)*
 - [ ] Show my progress to Aram Bartholl und Peter Kabel *(0.5d)*
 - [ ] Talk about my project with Studio Hilo *(0.25d)*
 - [ ] Talk about my project with House of All / Fab City Hamburg *(0.5d)*
-- [X] Talk about my project with Sabine (photo and video documentation)
+- [x] Talk about my project with Sabine (photo and video documentation)
 - [ ] Visit the Tuchmachermuseum in Neumünster *(1d)*
-- [ ] Apply for Prototype Fund Hardware (last chance for application 15.06.22)
+- [x] Apply for Prototype Fund Hardware
 
 *total 74h*
 
@@ -43,7 +43,7 @@ E.g.: I won't make assembly guides for people to follow along for my thesis, bec
 ### Goals of this Project Phase
 
 * Invent a serial warp thread selection mechanism by building a modular teststand with a linear actor and testing at least three different mechanisms on it. The desired mechanism should fulfill the desired specs of my loom (reliability, tissue density, speed).
-* Make sure the mechanism doesn't infringe a patent of by having it checked from a lawyer
+* Make sure the mechanism doesn't infringe a patent of by having it checked by a lawyer
 * Ensure that the mechanism cannot be patented by a company by making it publicly available and choosing the right Open Hardware License for my project by consulting a lawyer
 * Documenting the process by writing about the tested mechanisms and what specs they achieved.
 
@@ -91,7 +91,7 @@ E.g.: I won't make assembly guides for people to follow along for my thesis, bec
 - [ ] Extract all texts from the website and use a markdown importer for inDesign *(0.5d)*
 - [ ] Proof read all texts from the website *(1d)* 
 - [ ] Fill the logical gaps. Is there content missing and where? Is everything up to date? *(4d)*
-- [ ] Getting the text lectured
+- [ ] Spell check the text
 - [ ] Make a Layout of the content in inDesign *(3d)*
 - [ ] Get the documentation printed and bound *(0.5d)*
 - [ ] Hand the report in, send copies to important people and institutions *(1d)*

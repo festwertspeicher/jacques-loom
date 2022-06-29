@@ -35,5 +35,5 @@ The interims report and the first prototypes will be my practical project to get
 
 ## Acknowledgements
 
-Special thanks to Dr. Bettina Schmidt for all the support and care; Bettina, Maya and Sabine for lecturing; Dominic and Eric for technical and electrical consultation; Sabine for taking photos and videos and the promo video, [Attraktor e.V.](https://www.attraktor.org) for providing the tools and infrastructure to bootstrap such a project, especially Flo for the laser introduction and Frank for the initiation; Prof. Dr. Kabel and Prof. Aram Bartholl for supervision. Thanks to Mom and Dad for their patience with me.
+Special thanks to Dr. Bettina Schmidt for all the support and care; Bettina, Maya and Sabine for lecturing; Dominic and Eric for technical and electrical consultation; Sabine for taking photos and videos and the promo video, [Attraktor e.V.](https://www.attraktor.org) for providing the tools and infrastructure to bootstrap such a project, especially Flo for the laser introduction and Frank for the initiation; Prof. Dr. Kabel and Prof. Aram Bartholl for supervision. Thanks to Mom and Dad.
 

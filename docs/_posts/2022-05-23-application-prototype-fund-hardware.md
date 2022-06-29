@@ -23,7 +23,7 @@ Textiles or fabrics are almost exclusively imported and involve a non-transparen
 
 Today, looms are large-scale industrial production tools that are not accessible to small-scale manufacturers. There are hardly any affordable, compact and modern looms for non-industrial applications. This is especially true for jacquard looms. 
 
-A jacquard loom can create highly complex fabrics by individually raising or lowering each vertical warp thread during the weaving process. This allows entire pictures to be woven. Other loom types are not versatile with very limited design possibilities resulting in repetitive patterns (e.&nbsp;g. check pattern) and usually no binding variation (e.&nbsp;g. denim binding only.
+A jacquard loom can create highly complex fabrics by individually raising or lowering each vertical warp thread during the weaving process. This allows entire pictures to be woven. Other loom types are not versatile with very limited design possibilities resulting in repetitive patterns (e.&nbsp;g. check pattern) and usually no binding variation (e.&nbsp;g. denim binding only).
 
 The goal of this project is to make jacquard weaving more accessible. An alternative to large-scale industrial production methods should make people able to act and enable independent decentralized production of small series, prototypes and experiments.
 
