@@ -21,16 +21,11 @@ The interims report and the first prototypes will be my practical project to get
 
 ## About me
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-    <div class="col-span-1 md:col-span-2">
-        <p markdown="1">
-            Hi! 👋 My name is Norman and I'm an industrial designer and maker. I am a master student at the University of Applied Sciences Hamburg (Department Design). Prior to the development of this loom, I worked at the german electron synchrotron [DESY](https://www.desy.de/) at a project for [early childhood STEM education](https://www.haus-der-kleinen-forscher.de/de/fortbildungen/paedagogik), on various [websites](https://alpha-alpaka.de/) and user interfaces, a large format 3D printer with tool changer, the multimedia installation ['Confessional3000'](https://www.feinschwarz.net/beichtstuhl3000-eine-kunstinstallation-auf-dem-reeperbahnfestival/) and furniture systems for highly flexible working environments ([SCOPE](https://designforhumannature.de/scope/) & [FRAMEWORKER](https://designforhumannature.de/frameworker/)).
-        </p>
-    </div>
-    <div>
-        <img class="border-white border-[10px] rounded-md shadow-lg rotate-6 mx-auto max-w-[60%] md:max-w-full" src="{{ site.baseurl }}/assets/img/frontpage/norman.jpg" alt="Norman Heck in front of a scanning electron microscope">
-    </div>
-</div>
+
+Hi! 👋 My name is Norman and I'm an industrial designer and maker. I am a master student at the University of Applied Sciences Hamburg (Department Design). Prior to the development of this loom, I worked at the german electron synchrotron [DESY](https://www.desy.de/) at a project for [early childhood STEM education](https://www.haus-der-kleinen-forscher.de/de/fortbildungen/paedagogik), on various [websites](https://alpha-alpaka.de/) and user interfaces, a large format 3D printer with tool changer, the multimedia installation ['Confessional3000'](https://www.feinschwarz.net/beichtstuhl3000-eine-kunstinstallation-auf-dem-reeperbahnfestival/) and furniture systems for highly flexible working environments ([SCOPE](https://designforhumannature.de/scope/) & [FRAMEWORKER](https://designforhumannature.de/frameworker/)).
+
+<img class="border-white border-[10px] rounded-md shadow-lg rotate-6 my-12 mx-auto md:mx-2 max-w-[90%] md:max-w-[60%]" src="{{ site.baseurl }}/assets/img/frontpage/norman.jpg" alt="Norman Heck in front of a scanning electron microscope">
+
 
 
 ## Acknowledgements
