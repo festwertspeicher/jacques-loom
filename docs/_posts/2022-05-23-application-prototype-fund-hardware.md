@@ -9,91 +9,89 @@ badges:
    name: foundation
 ---
 
-This is a non commercial open source project. I spend a lot of time refining the idea of the project and will spend a lot of time bringing it to life, and making it accessible to the public. To get some money for the materials and development of this project I want to get funding from the 'Prototype Fund Hardware'. Through the application process I answered a lot of questions about the 'Jacques' Loom Project. The answers in the application are a good overview of the project. So I thought this might be a good first post to get you in the project. The questions and answers are translated to english to reach a brighter audience, the application has to be necessarily in german language. You can find the original German version below.
+This is a non-commercial open-source project. I spend a lot of time refining the idea of the project and will spend a lot of time bringing it to life and making it accessible to the public. To cover the costs for the materials and development of this project, I wanted to apply for funding from the 'Prototype Fund Hardware'. I answered many questions about the 'Jacques' Loom Project through the application process. The answers in the application are a good overview of the project. So I thought this might be a good first post to get you into the project. The questions and answers are translated to English to reach a broader audience; the application itself had to be in German language. The application had to be in German, but I translated the texts to English to reach a broader audience. You can find the original German version below.
 
 <!--more-->
 
 [The Prototype Fund Hardware](https://hardware.prototypefund.de/) is a project of the [Open Knowledge Foundation Deutschland](https://okfn.de/), funded by the German Federal Ministry of Education and Research ("[Bundesministerium für Bildung und Forschung](https://www.bmbf.de/)") within the context of [WIR](https://www.innovation-strukturwandel.de/strukturwandel/de/innovation-strukturwandel/_documents/artikel/kontakt.html?nn=452028) and the project [WI+R](https://digitale-reparaturfabrik.de/).
 
----
-
 > Brief description: summarize the problem area, the main objectives of the project, and your solution.
 
-Textiles or fabrics are almost exclusively imported and involve a non-transparent production and supply chain as well as extensive ecological and political problems.
+Textiles or fabrics are almost exclusively imported and come with a non-transparent production and supply chain and extensive ecological and political problems.
 
-Today, looms are large-scale industrial production tools that are not accessible to small-scale manufacturers. There are hardly any affordable, compact and modern looms for non-industrial applications. This is especially true for jacquard looms. 
+Nowadays, weaving looms are large-scale industrial production tools that are not accessible to small-scale manufacturers. There are hardly any affordable, compact, modern looms for non-industrial applications. This is especially true for Jacquard looms.
 
-A jacquard loom can create highly complex fabrics by individually raising or lowering each vertical warp thread during the weaving process. This allows entire pictures to be woven. Other loom types are not versatile with very limited design possibilities resulting in repetitive patterns (e.&nbsp;g. check pattern) and usually no binding variation (e.&nbsp;g. denim binding only).
+A jacquard loom can create highly complex fabrics by individually raising or lowering each vertical warp thread during the weaving process. This allows entire pictures to be woven. Other loom types are not versatile, with minimal design possibilities resulting in repetitive patterns (e. g. check pattern) and usually no binding variation (e. g. denim binding only).
 
-The goal of this project is to make jacquard weaving more accessible. An alternative to large-scale industrial production methods should make people able to act and enable independent decentralized production of small series, prototypes and experiments.
+The goal of this project is to make jacquard weaving more accessible. An alternative to large-scale industrial production methods should open the scope for individual use and make people able to act and enable independent decentralized production of small series, prototypes, and experiments.
 
-To solve the above problems and achieve the goals, I would like to develop an Open Source Hardware (OSH) Jacquard loom. The machine size and acquisition cost shall be drastically reduced compared to industrial machines. For this purpose, a new mechanism for lifting and lowering the warp threads shall be found: The warp threads are not raised or lowered at the same time (in parallel), but one after the other (in serial). This saves hundreds of expensive actuators. In return, compromises are made in the operating speed.
+To solve the problems mentioned above and achieve the goals, I would like to develop an Open-Source Hardware (OSH) Jacquard loom. The machine size and acquisition costs shall be drastically reduced compared to industrial machines. For this purpose, a new mechanism for lifting and lowering the warp threads must be developed: The warp threads are not raised or lowered at the same time (simultaneously) but one after the other (in serial). This saves hundreds of expensive actuators. One disadvantage would be the compromised operating speed. In return, compromises are made in the operating speed.
 
 > What social problem do you want to solve with the project?
 
-The explosive increase in demand for clothing is having a huge social and environmental impact. The required resources and transport emissions for our textiles are becoming a growing problem. Clothing is mostly produced in Asian countries under poor working conditions. The production and supply chains of imported textiles are intransparent and beyond any control. Produced and unsold clothing is destroyed on a large scale.
+The explosive increase in demand for clothing has a huge social and environmental impact. The required resources and transport emissions for our textiles are becoming a growing problem. Clothing is mostly produced in Asian countries under poor working conditions. The production and supply chains of imported textiles are intransparent and beyond any governmental (?) control. Unsold clothing is destroyed on a large scale.
 
-Modern affordable tools are missing for small textile production environments. With a digitally controllable jacquard loom, complex fabrics can be produced locally again and manufacturing processes can be redefined – from material selection to fabric construction, prototyping to testing new working and distribution models. Products made decentrally for the local community create decent jobs, fair production conditions, and cause fewer transportation emissions without wasteful overproduction. Local on-demand production enables independently produced fabrics and has the power to break problematic production and supply chains. This is an essential step in building a modern circular economy.
+Currently, there are no modern affordable tools available for small textile production environments. Modern affordable tools are missing for small textile production environments. With a digitally controlled jacquard loom, complex fabrics can be produced locally again, and manufacturing processes can be redefined – from material selection to fabric construction, prototyping to testing new working and distribution models. Products made decentralized for the local community create jobs and production conditions and cause fewer transportation emissions without wasteful overproduction. Local on-demand production enables independently produced fabrics and has the power to break problematic production and supply chains. This is an essential step in building a modern circular economy.
 
-> Who is the target audience and how will your open hardware solution reach them? How do you plan to involve the target audience in the development?
+> Who is the target audience, and how will your open hardware solution reach them? How do you plan to involve the target audience in the development?
 
-The project addresses (textile) designers, experts for textile technologies, universities, open workshops, small production sites, makers and hobby weavers.
+The project addresses (textile) designers, experts in textile technologies, universities, open workshops, small production sites, makers, and hobby weavers.
 
-The target group differs greatly in technical skills and their knowledge of weaving. Low-threshold articles, photos, videos and animations shall convey knowledge about weaving as well as technology. Detailed assembly instructions should enable as many people as possible to recreate the loom. Channels like Github (Pages), Instagram and Discord are used for communication and participation.
+The target group differs significantly in technical skills and their knowledge of weaving. Low-threshold articles, photos, videos, and animations shall convey knowledge about weaving and technology. Detailed assembly instructions should enable as many people as possible to recreate the loom. Channels like Github (Pages), Instagram and Discord are used for communication and participation.
+In addition, I would like to connect with local actors during the development phase, for example, the [Open Lab for textile circular economy](https://wearall.clothing/content/texlab) and the loom inventor [Andreas Möller](https://www.weberei-hamburg.com/). The textile department of HAW Hamburg is involved in this research project as well.
 
-In addition, I would like to connect with local actors during the development phase, for example the [Open Lab for textile circular economy](https://wearall.clothing/content/texlab) and the loom inventor [Andreas Möller](https://www.weberei-hamburg.com/). The textile department of HAW Hamburg is involved in this research project.
+> What specific value do you see in making your project available as Open Hardware?
 
-> What specific value do you see in making your project available as Open Hardware? 
+The project can extend its reach through Open Hardware and empower more people to make their own fabrics. In this way, they actively engage with the production method and the associated global problems of our textile consumption. Publishing the project under an Open Hardware license deliberately contradicts the profit-oriented fashion industry. In my opinion, all knowledge should be publicly available.
 
-Through Open Hardware, the project can extend its reach and empower more people to make their own fabrics. In this way, they engage with the production method and the associated global problems of our textile consumption. Publishing the project under an Open Hardware license deliberately sets a counterpoint to the profit-oriented fashion industry. In my opinion, all knowledge should be publicly available.
+By disclosing the product development, the project does not have to be ready for the market before it reaches people and communities. As a Minimum Viable Product, it can be tested whether or not there is any interest or need for a finished consumer product.
 
-By disclosing the product development, the project does not have to be ready for the market before it reaches people and communities. As a Minimum Viable Product, it can be tested whether there is any interest and need at all for a finished consumer product.
-
-Through collaborative product development, the project can be improved continuously in an iterative way. People from different disciplines can contribute their skills and benefit from each other. The project needs people to continuously test the loom, contribute their wishes, suggestions and experiences and develop it further. The exchange of knowledge and information promotes communities, strengthens efforts for standardization, modularity, expandability, repairability and maintainability.
+Through collaborative product development, the project can be improved continuously in an iterative way. People from different disciplines can contribute their skills and benefit from each other. The project needs people to continuously test the loom, contribute their wishes, suggestions and experiences and develop it further. The exchange of knowledge and information promotes communities and strengthens efforts for standardization, modularity, expandability, repairability and maintainability.
 
 > What skills do you bring to the table to implement the project?
 
-I can quickly dive into new topics, autodidactically acquire knowledge and grasp complex interrelationships. My skillset includes rapid prototyping, textile technologies such as machine knitting, design skills such as UX-/UI design, video and photo editing, graphics and layout, product design, programming, electronics development, CAD and experience with developing and building CNC machines. 
+I can quickly dive into new topics, autodidactically acquire knowledge and grasp complex interrelationships. My skill set includes rapid prototyping, textile technologies such as machine knitting, design skills such as UX-/UI design, video and photo editing, graphics and layout, product design, programming, electronics development, CAD, and experience with developing and building CNC machines.
 
 These skills are the best prerequisites for the realization of such a diverse project. I am very good at keeping an overview of all areas, bringing in new perspectives and points of view, initiating something and finding the right people to spin my ideas further. In addition, sustainable development is extremely important to me.
 
 > How do you plan to implement your project technically? What equipment and materials will be needed?
 
-The loom should be rebuildable as low-threshold as possible. Therefore, I use internationally common and interchangeable (standard) components and materials such as stepper motors, linear guides, solenoid valves and pneumatic connections. A small compressor will most likely be needed for operation. In addition, some custom-made components will be needed, which can be laser-cut from POM or metal at a makerspace or online service provider at low cost. The basic framework of the loom will be built with aluminum extrusions. An Arduino/ESP32 will be used as the microcontroller. Beginners should also be able to build the electronics. The goal is to keep the bill of materials as short as possible.
+The loom should be rebuildable as low-threshold as possible. Therefore, I use internationally common and interchangeable (standard) components and materials such as stepper motors, linear guides, solenoid valves and pneumatic connections. A small compressor will most likely be needed for operation. In addition, some custom-made components will be needed, which can be laser-cut from POM or metal at a makerspace or ordered from an online service provider at a low cost. The basic framework of the loom will be built with aluminium extrusions. An Arduino/ESP32 will be used as the microcontroller. Beginners should also be able to build the electronics. The goal is to keep the bill of materials as short as possible.
 
 All components should be included and versioned in the digital CAD model. The loom should be as modular as possible, easy to assemble, disassemble and repair.
 
-The graphical user interface will be implemented as a web application. It will provide only basic functions and will be used to upload weaving patterns as pixel images. The patterns will be designed in other programs such as Gimp or [AdaCAD](https://github.com/UnstableDesign/AdaCAD).
+The graphical user interface will be implemented as a web application. It will provide only essential functions and will be used to upload weaving patterns as pixel images. The patterns can be designed in other programs such as Gimp or [AdaCAD](https://github.com/UnstableDesign/AdaCAD).
 
-As few special tools as possible should be needed for the reconstruction of the loom. Current plans call for a soldering iron, wire stripper, crimping pliers, multimeter, and hex wrench. The first four tools could be saved by selling assembled Printed Circuit Boards and ready-made cables.
-
-According to current planning, a soldering iron, a wire stripper, crimping pliers, a multimeter and hexagonal wrenches will be needed. The first four tools could be avoided by selling assembled boards and prefabricated cables.
+I aim to use as few special tools as possible to build the loom. According to current planning, a soldering iron, a wire stripper, crimping pliers, a multimeter, and hexagonal wrenches will be needed. The first four tools could be dodged by offering the option to sell assembled printed circuit boards and prefabricated cables to the makers.
 
 Of course, more tools will be needed for prototype development. The local makerspace covers all my needs in this regard.
 
 > Which open workshop can you use? Have you already contacted them? Or can you do without?
 
-For my work on the loom project I became a member of the Hamburg Makerspace Attraktor. In addition to the operation of the workshop, the statutory purpose of the non-profit association includes the promotion of science, research and education as well as knowledge transfer.
+For my work on the loom project, I became a member of the Hamburg Makerspace Attraktor. In addition to operating the workshop, the statutory purpose of the non-profit association includes promoting science, research, education, and knowledge transfer.
 
-The Makerspace offers a good basic infrastructure as well as a supply of components and materials for the rapid prototyping. There is a metal, wood and electronics workshop as well as a textile area. Most helpful for my project is the large laser cutter, which I can use to manufacture and test the loom's custom components.
+The Makerspace offers a good basic infrastructure as well as a supply of components and materials for rapid prototyping. There is a metal, wood, and electronics workshop as well as a textile area. Most helpful for my project is the large laser cutter, which I can use to manufacture and test the loom's custom components.
 
 Additionally, the place brings together over 100 skilled members who can assist me with their expertise.
 
 > What similar solutions already exist that you can connect to? How does your project differ from others?
 
-In addition to the large industrial machines, there are two commercial jacquard looms that fall into a similar category as my loom: AVL's Jacq3G and Digital Weaving Norway's TC2. Both of them control the warp threads via hundreds of actuators. Due to the serial mechanism, the material cost for my loom will only be a fraction of the price. A somewhat similar mechanism is used in electronic flatbed knitting machines.
+In addition to the large industrial machines, two commercial Jacquard looms fall into a similar category as my loom: AVL's Jacq3G and Digital Weaving Norway's TC2. Both control the warp threads via hundreds of actuators. Due to the serial mechanism, the material cost for my loom will only be a fraction of the price. A somewhat similar mechanism is used in electronic flatbed knitting machines.
 
-There have been several attempts to build small Jacquard looms. All projects are far from my desired specifications (setting speed, fabric density). You can find my overview of the available projects [here]({{ site.baseurl }}/2022/market-overview). Worth mentioning are [1](http://lea.zone/jacquard_handweaving.html), [2](https://retrotechjournal.com/2019/06/17/making-a-diy-computer-controlled-loom/) and [3](https://www.youtube.com/watch?v=iqlxO5RYyGU), as they also use a serial selection mechanism.
+There have been several attempts to build small Jacquard looms. All projects are far from my desired specifications (setting speed, fabric density). You can find my overview of the available projects here. Worth mentioning are[1](http://lea.zone/jacquard_handweaving.html), [2](https://retrotechjournal.com/2019/06/17/making-a-diy-computer-controlled-loom/) and [3](https://www.youtube.com/watch?v=iqlxO5RYyGU), as they also use a serial selection mechanism.
+
 
 > Have you already worked on the idea? If yes, briefly describe the current status and explain the innovation that will be added during the fund/funding period.
 
-The submission of this application also marks the end of the project planning phase: the idea has been concretized, timelines created, networking done and a workspace has been set up. All organizational steps are completed, such as the creation of a website for documentation purposes and the initiation of the GitHub repository to share first progress.
+Have you already worked on the idea? If yes, briefly describe the current status and explain the innovation that will be added during the fund/funding period.
 
-To start the next phase of the project, a test rig has been developed to test different mechanisms for the serial selection of warp threads. First tests ran very successfully - in particular, a promising mechanism was found, which will now be further improved. In the next phases of the project a loom will be developed around this mechanism and improved iteratively.
+The submission of this application also marks the end of the project planning phase: the idea has been concretized, timelines created, networking done, and a workspace has been set up. All organizational steps are completed, such as the creation of a website for documentation purposes and the initiation of the GitHub repository to share the first progress.
 
-> Briefly outline the key milestones, with an estimate of the workload in hours, that you plan to complete in the funding period of a maximum of 6 months.
+Before starting the project's next phase, a test rig was developed to test different mechanisms for the serial selection of warp threads. First tests ran very successfully - in particular, a promising mechanism was found, which will now be further improved. In the project's next phases, a loom will be developed around this mechanism and improved iteratively.
 
-A more detailed schedule can be found [here]({{ site.baseurl }}/milestones). Documentation will be provided on an ongoing basis.
+> Briefly outline the key milestones with an estimate of the workload in hours that you plan to implement in the funding period of max. 6 months.
+
+You can find a more detailed schedule [here]({{ site.baseurl }}/milestones). Documentation will be provided on an ongoing basis.
 
 1. Planning (finished)
 * Research
@@ -118,18 +116,18 @@ A more detailed schedule can be found [here]({{ site.baseurl }}/milestones). Doc
 4. Iteration of the loom (320 hours).
 * New major version of the loom
 * More robust software
-* Complete package with CAD files, schematics, BOM, code, ...
+* Complete package with CAD files, schematics, BOM, code, …
 * Building instructions
 
 > What is your long-term goal? What will happen after the grant period?
 
-The long-term goal is to reach a stable development stage in which the loom functions reliably and makes the step from proof of concept to a proper production tool. Whether the loom is further developed into a market-ready product depends primarily on the success of the prototype phase and user feedback. It is also imaginable to distribute pre-prepared construction kits and assembled circuit boards as well as to organize workshops and lectures in order to further lower the inhibition barrier of rebuilding the loom and to further increase the reach. I do hope to find people who will continue to develop the loom continuously beyond the grant period.
+The long-term goal is to reach a stable development stage in which the loom functions reliably and moves from proof of concept to a proper production tool. Whether the loom is further developed into a market-ready product depends primarily on the success of the prototype phase and user feedback. It is also imaginable to distribute pre-prepared construction kits and assembled circuit boards and organize workshops and lectures to further lower the inhibition barrier of rebuilding the loom and further increase the reach. I hope to find people who will continue to develop the loom continuously beyond the grant period.
 
-> What is missing? Post here what else you wanted to say, for which there was no space in the form above.
+> What is missing? Write here what else you wanted to say, but for which there was no field.
 
-It is delusional to claim that this project is the best or only solution to the major problems facing the textile industry. The global problems need political action first and foremost. Nevertheless, the loom is a meaningful building block in a sustainable change process, as the project is also technology-mediating, empowering and encourages reflection on the current status quo in the textile industry.
+It is delusional to claim that this project is the best or only solution to the textile industry's major problems. Global problems need political action first and foremost. Nevertheless, the loom is a meaningful building block in a sustainable change process, as the project is also technology-mediating, empowering and encourages reflection on the current status quo in the textile industry.
 
-The interim report of the project is also my master's thesis at the Hamburg University of Applied Sciences in the Department of Design. The project is supervised by Aram Bartholl and professor Peter Kabel.
+The project's interim report is also my master's thesis at the Hamburg University of Applied Sciences in the Department of Design. The project is supervised by Aram Bartholl and professor Peter Kabel.
 
 ---
 
